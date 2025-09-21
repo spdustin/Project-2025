@@ -135,7 +135,7 @@ Additionally, the department has created a "shadow" department of education oper
 
 #### 11.3.1.1: EIGHTH-GRADE READING, AVERAGE SCORES
 
-![Grade 8 Reading Average Scores](eighth-grade-reading-average-scores.jpeg)
+![Grade 8 Reading Average Scores](_attachments/eighth-grade-reading-average-scores.jpeg)
 
 > [!NOTE] Accessible Description
   > A small line graph tracks a measurement from 1992 through 2021 on a scale that runs from 255 to 270.
@@ -148,7 +148,7 @@ Additionally, the department has created a "shadow" department of education oper
 
 #### 11.3.1.2: FOURTH-GRADE READING, AVERAGE SCORES
 
-![Grade 4 Reading Average Scores](fourth-grade-reading-average-scores.jpeg)
+![Grade 4 Reading Average Scores](_attachments/fourth-grade-reading-average-scores.jpeg)
 
 > SOURCES: The Nation's Report Card, "National Average Scores," Grade 4, <https://www.nationsreportcard.gov/reading/nation/scores/?grade=4> (accessed March 17, 2023), and The Nation's Report Card, "National Average Scores," Grade 8, <https://www.nationsreportcard.gov/reading/nation/scores/?grade=4> (accessed March 17, 2023).
 
@@ -220,7 +220,7 @@ With a statutory charge that it preserve the federal student loan portfolio for 
 
 #### 11.4.8.1: EIGHTH-GRADE MATH, AVERAGE SCORES
 
-![Grade 8 Math Average Scores](eighth-grade-math-average-scores.jpeg)
+![Grade 8 Math Average Scores](_attachments/eighth-grade-math-average-scores.jpeg)
 
 <!-- Accessible Description -->
 > [!NOTE] Accessible Description
@@ -235,7 +235,7 @@ With a statutory charge that it preserve the federal student loan portfolio for 
 
 #### 11.4.8.2: FOURTH-GRADE MATH, AVERAGE SCORES
 
-![Grade 4 Math Average Scores](fourth-grade-math-average-scores.jpeg)
+![Grade 4 Math Average Scores](_attachments/fourth-grade-math-average-scores.jpeg)
 
 > SOURCES: The Nation's Report Card, "National Average Scores," Grade 4, <https://www.nationsreportcard.gov/mathematics/nation/scores/?grade=4> (accessed March 17, 2023), and The Nation's Report Card, "National Average Scores," Grade 8, <https://www.nationsreportcard.gov/mathematics/nation/scores/?grade=4> (accessed March 17, 2023).
 
@@ -250,7 +250,7 @@ With a statutory charge that it preserve the federal student loan portfolio for 
 
 #### 11.4.9.1: READING, AVERAGE SCORES
 
-![Reading Average Scores](reading_average_scores.jpeg)
+![Reading Average Scores](_attachments/reading_average_scores.jpeg)
 
 > [!NOTE] Accessible Description
   > The figure shows two stacked line charts covering 1971 to 2020 on a vertical scale from 200 to 300.
@@ -261,7 +261,7 @@ With a statutory charge that it preserve the federal student loan portfolio for 
 
 #### 11.4.9.2: MATH, AVERAGE SCORES
 
-![Math Average Scores](math-average-scores.jpeg)
+![Math Average Scores](_attachments/math-average-scores.jpeg)
 
 > SOURCE: The Nation's Report Card, "NAEP Data Explorer," <https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WCSSTUS1&f=W> (accessed March 17, 2023).
 
@@ -691,7 +691,7 @@ The department must coordinate any rule-making with the White House, the Office 
 
 #### 11.12.3.1: U.S. Department of Education, Total Appropriations
 
-![Department of Education Total Appropriations](doe-total-appropriations.jpeg)
+![Department of Education Total Appropriations](_attachments/doe-total-appropriations.jpeg)
 
 > SOURCE: U.S. Department of Education, "Budget History Tables," Education Department Budget History Table, <https://www2.ed.gov/about/overview/budget/history/index.html> (accessed March 17, 2023).
 
