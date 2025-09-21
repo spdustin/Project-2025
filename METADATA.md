@@ -1,0 +1,2222 @@
+- Geopolitical Entity/Afghanistan
+  - [A Promise to America](Foreword/A%20Promise%20to%20America.md)
+  - [Department of State](Section%202/Department%20of%20State.md)
+- Geopolitical Entity/Australia
+  - [Department of State](Section%202/Department%20of%20State.md)
+- Geopolitical Entity/Beijing
+  - [Federal Communications Commission](Section%205/Federal%20Communications%20Commission.md)
+  - [Independent Regulatory Agencies](Section%205/Independent%20Regulatory%20Agencies.md)
+- Geopolitical Entity/Brazil
+  - [Agency for International Development](Section%202/Agency%20for%20International%20Development.md)
+  - [Trade](Section%204/Trade.md)
+- Geopolitical Entity/Canada
+  - [Department of State](Section%202/Department%20of%20State.md)
+  - [Export-Import Bank](Section%204/Export-Import%20Bank.md)
+  - [Trade](Section%204/Trade.md)
+- Geopolitical Entity/China
+  - [A Promise to America](Foreword/A%20Promise%20to%20America.md)
+  - [Agency for International Development](Section%202/Agency%20for%20International%20Development.md)
+  - [Department of Defense](Section%202/Department%20of%20Defense.md)
+  - [Department of State](Section%202/Department%20of%20State.md)
+  - [Intelligence Community](Section%202/Intelligence%20Community.md)
+  - [The Common Defense](Section%202/The%20Common%20Defense.md)
+  - [Department of Energy and Related Commissions](Section%203/Department%20of%20Energy%20and%20Related%20Commissions.md)
+  - [Department of Housing and Urban Development](Section%203/Department%20of%20Housing%20and%20Urban%20Development.md)
+  - [Department of Justice](Section%203/Department%20of%20Justice.md)
+  - [Department of Transportation](Section%203/Department%20of%20Transportation.md)
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+  - [Department of the Treasury](Section%204/Department%20of%20the%20Treasury.md)
+  - [Export-Import Bank](Section%204/Export-Import%20Bank.md)
+  - [The Economy](Section%204/The%20Economy.md)
+- Geopolitical Entity/Colombia
+  - [Department of State](Section%202/Department%20of%20State.md)
+- Geopolitical Entity/Denmark
+  - [Department of State](Section%202/Department%20of%20State.md)
+- Geopolitical Entity/Djibouti
+  - [Department of State](Section%202/Department%20of%20State.md)
+- Geopolitical Entity/Ecuador
+  - [Department of State](Section%202/Department%20of%20State.md)
+- Geopolitical Entity/Egypt
+  - [Department of State](Section%202/Department%20of%20State.md)
+- Geopolitical Entity/Finland
+  - [Department of State](Section%202/Department%20of%20State.md)
+- Geopolitical Entity/France
+  - [Department of State](Section%202/Department%20of%20State.md)
+- Geopolitical Entity/Germany
+  - [Export-Import Bank](Section%204/Export-Import%20Bank.md)
+- Geopolitical Entity/Guyana
+  - [Department of State](Section%202/Department%20of%20State.md)
+- Geopolitical Entity/India
+  - [Department of State](Section%202/Department%20of%20State.md)
+  - [Trade](Section%204/Trade.md)
+- Geopolitical Entity/Indonesia
+  - [Trade](Section%204/Trade.md)
+- Geopolitical Entity/Iran
+  - [Department of Defense](Section%202/Department%20of%20Defense.md)
+  - [Department of State](Section%202/Department%20of%20State.md)
+  - [Intelligence Community](Section%202/Intelligence%20Community.md)
+  - [Department of Energy and Related Commissions](Section%203/Department%20of%20Energy%20and%20Related%20Commissions.md)
+  - [Department of Justice](Section%203/Department%20of%20Justice.md)
+  - [Federal Communications Commission](Section%205/Federal%20Communications%20Commission.md)
+- Geopolitical Entity/Ireland
+  - [Trade](Section%204/Trade.md)
+- Geopolitical Entity/Israel
+  - [Agency for International Development](Section%202/Agency%20for%20International%20Development.md)
+  - [Department of State](Section%202/Department%20of%20State.md)
+- Geopolitical Entity/Italy
+  - [Export-Import Bank](Section%204/Export-Import%20Bank.md)
+- Geopolitical Entity/Japan
+  - [Agency for International Development](Section%202/Agency%20for%20International%20Development.md)
+  - [Department of Defense](Section%202/Department%20of%20Defense.md)
+  - [Department of State](Section%202/Department%20of%20State.md)
+  - [Export-Import Bank](Section%204/Export-Import%20Bank.md)
+  - [Trade](Section%204/Trade.md)
+- Geopolitical Entity/Kuwait
+  - [Agency for International Development](Section%202/Agency%20for%20International%20Development.md)
+- Geopolitical Entity/Malaysia
+  - [Trade](Section%204/Trade.md)
+- Geopolitical Entity/Mexico
+  - [Department of State](Section%202/Department%20of%20State.md)
+  - [The Common Defense](Section%202/The%20Common%20Defense.md)
+  - [Department of Agriculture](Section%203/Department%20of%20Agriculture.md)
+  - [Department of Justice](Section%203/Department%20of%20Justice.md)
+  - [Trade](Section%204/Trade.md)
+- Geopolitical Entity/North Korea
+  - [Department of Defense](Section%202/Department%20of%20Defense.md)
+  - [Department of State](Section%202/Department%20of%20State.md)
+  - [Intelligence Community](Section%202/Intelligence%20Community.md)
+  - [Department of Energy and Related Commissions](Section%203/Department%20of%20Energy%20and%20Related%20Commissions.md)
+  - [Federal Communications Commission](Section%205/Federal%20Communications%20Commission.md)
+- Geopolitical Entity/Pakistan
+  - [Department of State](Section%202/Department%20of%20State.md)
+- Geopolitical Entity/Philippines
+  - [Department of Defense](Section%202/Department%20of%20Defense.md)
+- Geopolitical Entity/Qatar
+  - [Agency for International Development](Section%202/Agency%20for%20International%20Development.md)
+- Geopolitical Entity/Russia
+  - [Department of Defense](Section%202/Department%20of%20Defense.md)
+  - [Department of State](Section%202/Department%20of%20State.md)
+  - [Intelligence Community](Section%202/Intelligence%20Community.md)
+  - [Department of Agriculture](Section%203/Department%20of%20Agriculture.md)
+  - [Department of Energy and Related Commissions](Section%203/Department%20of%20Energy%20and%20Related%20Commissions.md)
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+  - [Trade](Section%204/Trade.md)
+  - [Federal Communications Commission](Section%205/Federal%20Communications%20Commission.md)
+- Geopolitical Entity/Saudi Arabia
+  - [Department of State](Section%202/Department%20of%20State.md)
+- Geopolitical Entity/Somaliland
+  - [Department of State](Section%202/Department%20of%20State.md)
+- Geopolitical Entity/South Africa
+  - [Agency for International Development](Section%202/Agency%20for%20International%20Development.md)
+- Geopolitical Entity/South Korea
+  - [Department of Defense](Section%202/Department%20of%20Defense.md)
+  - [Department of State](Section%202/Department%20of%20State.md)
+  - [Trade](Section%204/Trade.md)
+- Geopolitical Entity/Soviet Union
+  - [Onward!](Afterword/Onward!.md)
+  - [A Promise to America](Foreword/A%20Promise%20to%20America.md)
+  - [Agency for International Development](Section%202/Agency%20for%20International%20Development.md)
+- Geopolitical Entity/Sri Lanka
+  - [Agency for International Development](Section%202/Agency%20for%20International%20Development.md)
+- Geopolitical Entity/Sweden
+  - [Department of State](Section%202/Department%20of%20State.md)
+- Geopolitical Entity/Switzerland
+  - [Trade](Section%204/Trade.md)
+- Geopolitical Entity/Syria
+  - [Federal Communications Commission](Section%205/Federal%20Communications%20Commission.md)
+- Geopolitical Entity/Taiwan
+  - [Agency for International Development](Section%202/Agency%20for%20International%20Development.md)
+  - [Department of Defense](Section%202/Department%20of%20Defense.md)
+  - [The Common Defense](Section%202/The%20Common%20Defense.md)
+  - [Trade](Section%204/Trade.md)
+- Geopolitical Entity/Texas
+  - [Federal Communications Commission](Section%205/Federal%20Communications%20Commission.md)
+- Geopolitical Entity/Thailand
+  - [Trade](Section%204/Trade.md)
+- Geopolitical Entity/Türkiye
+  - [Department of State](Section%202/Department%20of%20State.md)
+- Geopolitical Entity/Ukraine
+  - [Department of Defense](Section%202/Department%20of%20Defense.md)
+  - [Department of State](Section%202/Department%20of%20State.md)
+  - [Department of Agriculture](Section%203/Department%20of%20Agriculture.md)
+  - [Trade](Section%204/Trade.md)
+- Geopolitical Entity/United Arab Emirates
+  - [Agency for International Development](Section%202/Agency%20for%20International%20Development.md)
+- Geopolitical Entity/United Kingdom
+  - [Department of State](Section%202/Department%20of%20State.md)
+  - [The Common Defense](Section%202/The%20Common%20Defense.md)
+  - [Export-Import Bank](Section%204/Export-Import%20Bank.md)
+  - [Trade](Section%204/Trade.md)
+- Geopolitical Entity/United States
+  - [Independent Regulatory Agencies](Section%205/Independent%20Regulatory%20Agencies.md)
+- Geopolitical Entity/Venezuela
+  - [Department of State](Section%202/Department%20of%20State.md)
+- Geopolitical Entity/Vietnam
+  - [Trade](Section%204/Trade.md)
+- Geopolitical Entity/Washington, DC
+  - [Independent Regulatory Agencies](Section%205/Independent%20Regulatory%20Agencies.md)
+- Organization/Corporation/AccuWeather
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Organization/Corporation/Alibaba
+  - [Trade](Section%204/Trade.md)
+- Organization/Corporation/Alphabet
+  - [Federal Trade Commission](Section%205/Federal%20Trade%20Commission.md)
+- Organization/Corporation/Amazon
+  - [Trade](Section%204/Trade.md)
+  - [Federal Communications Commission](Section%205/Federal%20Communications%20Commission.md)
+  - [Federal Trade Commission](Section%205/Federal%20Trade%20Commission.md)
+- Organization/Corporation/Apple
+  - [Trade](Section%204/Trade.md)
+  - [Federal Trade Commission](Section%205/Federal%20Trade%20Commission.md)
+- Organization/Corporation/Berkshire Hathaway
+  - [Trade](Section%204/Trade.md)
+- Organization/Corporation/BlackRock
+  - [Department of State](Section%202/Department%20of%20State.md)
+  - [The Common Defense](Section%202/The%20Common%20Defense.md)
+  - [Department of Labor and Related Agencies](Section%203/Department%20of%20Labor%20and%20Related%20Agencies.md)
+- Organization/Corporation/Boeing
+  - [Export-Import Bank](Section%204/Export-Import%20Bank.md)
+  - [The Economy](Section%204/The%20Economy.md)
+- Organization/Corporation/ByteDance
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Organization/Corporation/Charter Communications
+  - [Federal Communications Commission](Section%205/Federal%20Communications%20Commission.md)
+- Organization/Corporation/China Air
+  - [Export-Import Bank](Section%204/Export-Import%20Bank.md)
+  - [The Economy](Section%204/The%20Economy.md)
+- Organization/Corporation/China Mobile
+  - [Federal Communications Commission](Section%205/Federal%20Communications%20Commission.md)
+- Organization/Corporation/China Telecom
+  - [Federal Communications Commission](Section%205/Federal%20Communications%20Commission.md)
+- Organization/Corporation/China Unicom
+  - [Federal Communications Commission](Section%205/Federal%20Communications%20Commission.md)
+- Organization/Corporation/Disney
+  - [Department of State](Section%202/Department%20of%20State.md)
+  - [The Common Defense](Section%202/The%20Common%20Defense.md)
+- Organization/Corporation/Emirates Airlines
+  - [Export-Import Bank](Section%204/Export-Import%20Bank.md)
+- Organization/Corporation/Facebook
+  - [Federal Trade Commission](Section%205/Federal%20Trade%20Commission.md)
+- Organization/Corporation/Fannie Mae
+  - [Department of the Treasury](Section%204/Department%20of%20the%20Treasury.md)
+  - [Federal Reserve](Section%204/Federal%20Reserve.md)
+- Organization/Corporation/Freddie Mac
+  - [Department of the Treasury](Section%204/Department%20of%20the%20Treasury.md)
+  - [Federal Reserve](Section%204/Federal%20Reserve.md)
+- Organization/Corporation/General Electric
+  - [Export-Import Bank](Section%204/Export-Import%20Bank.md)
+- Organization/Corporation/Ginnie Mae
+  - [Federal Reserve](Section%204/Federal%20Reserve.md)
+- Organization/Corporation/Google
+  - [Federal Trade Commission](Section%205/Federal%20Trade%20Commission.md)
+- Organization/Corporation/HBO
+  - [Media Agencies](Section%202/Media%20Agencies.md)
+- Organization/Corporation/Huawei
+  - [The Economy](Section%204/The%20Economy.md)
+  - [Federal Communications Commission](Section%205/Federal%20Communications%20Commission.md)
+  - [Independent Regulatory Agencies](Section%205/Independent%20Regulatory%20Agencies.md)
+- Organization/Corporation/Kuiper
+  - [Federal Communications Commission](Section%205/Federal%20Communications%20Commission.md)
+- Organization/Corporation/Meta
+  - [Federal Trade Commission](Section%205/Federal%20Trade%20Commission.md)
+- Organization/Corporation/Microsoft
+  - [Federal Trade Commission](Section%205/Federal%20Trade%20Commission.md)
+- Organization/Corporation/Moderna
+  - [The Common Defense](Section%202/The%20Common%20Defense.md)
+  - [Department of Health and Human Services](Section%203/Department%20of%20Health%20and%20Human%20Services.md)
+  - [The General Welfare](Section%203/The%20General%20Welfare.md)
+- Organization/Corporation/National Basketball Association
+  - [Department of State](Section%202/Department%20of%20State.md)
+  - [The Common Defense](Section%202/The%20Common%20Defense.md)
+- Organization/Corporation/Pemex
+  - [Export-Import Bank](Section%204/Export-Import%20Bank.md)
+- Organization/Corporation/Rolls Royce
+  - [Export-Import Bank](Section%204/Export-Import%20Bank.md)
+- Organization/Corporation/Ryanair
+  - [Export-Import Bank](Section%204/Export-Import%20Bank.md)
+- Organization/Corporation/StarLink
+  - [Federal Communications Commission](Section%205/Federal%20Communications%20Commission.md)
+- Organization/Corporation/State Street Global Advisers
+  - [Department of Labor and Related Agencies](Section%203/Department%20of%20Labor%20and%20Related%20Agencies.md)
+- Organization/Corporation/Tesla
+  - [Department of Transportation](Section%203/Department%20of%20Transportation.md)
+  - [Federal Trade Commission](Section%205/Federal%20Trade%20Commission.md)
+- Organization/Corporation/TikTok
+  - [Federal Communications Commission](Section%205/Federal%20Communications%20Commission.md)
+  - [Federal Trade Commission](Section%205/Federal%20Trade%20Commission.md)
+  - [Independent Regulatory Agencies](Section%205/Independent%20Regulatory%20Agencies.md)
+- Organization/Corporation/TripAdvisor
+  - [Federal Trade Commission](Section%205/Federal%20Trade%20Commission.md)
+- Organization/Corporation/Verizon
+  - [Federal Communications Commission](Section%205/Federal%20Communications%20Commission.md)
+- Organization/Corporation/Westinghouse
+  - [Export-Import Bank](Section%204/Export-Import%20Bank.md)
+- Organization/Corporation/Yelp
+  - [Federal Trade Commission](Section%205/Federal%20Trade%20Commission.md)
+- Organization/Corporation/ZTE
+  - [Federal Communications Commission](Section%205/Federal%20Communications%20Commission.md)
+- Organization/Corporation/Zoom
+  - [Federal Trade Commission](Section%205/Federal%20Trade%20Commission.md)
+- Organization/Corporation/eBay
+  - [Trade](Section%204/Trade.md)
+  - [Federal Trade Commission](Section%205/Federal%20Trade%20Commission.md)
+- Organization/Government Agency/ARPA-E
+  - [Department of Energy and Related Commissions](Section%203/Department%20of%20Energy%20and%20Related%20Commissions.md)
+- Organization/Government Agency/Administration for Children and Families
+  - [Department of Education](Section%203/Department%20of%20Education.md)
+  - [Department of Health and Human Services](Section%203/Department%20of%20Health%20and%20Human%20Services.md)
+- Organization/Government Agency/Administration for Community Living
+  - [Department of Health and Human Services](Section%203/Department%20of%20Health%20and%20Human%20Services.md)
+- Organization/Government Agency/Administration for Strategic Preparedness and Response
+  - [Department of Health and Human Services](Section%203/Department%20of%20Health%20and%20Human%20Services.md)
+- Organization/Government Agency/Administration on Children, Youth, and Families
+  - [Department of Health and Human Services](Section%203/Department%20of%20Health%20and%20Human%20Services.md)
+- Organization/Government Agency/Air Traffic Organization
+  - [Department of Transportation](Section%203/Department%20of%20Transportation.md)
+- Organization/Government Agency/Alcohol and Tobacco Tax and Trade Bureau
+  - [Department of the Treasury](Section%204/Department%20of%20the%20Treasury.md)
+- Organization/Government Agency/Biden Administration
+  - [Agency for International Development](Section%202/Agency%20for%20International%20Development.md)
+  - [The Common Defense](Section%202/The%20Common%20Defense.md)
+  - [Department of Agriculture](Section%203/Department%20of%20Agriculture.md)
+  - [Department of Education](Section%203/Department%20of%20Education.md)
+  - [Department of Housing and Urban Development](Section%203/Department%20of%20Housing%20and%20Urban%20Development.md)
+  - [Department of Labor and Related Agencies](Section%203/Department%20of%20Labor%20and%20Related%20Agencies.md)
+  - [Department of Transportation](Section%203/Department%20of%20Transportation.md)
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+  - [Department of the Treasury](Section%204/Department%20of%20the%20Treasury.md)
+  - [The Economy](Section%204/The%20Economy.md)
+  - [Trade](Section%204/Trade.md)
+  - [Independent Regulatory Agencies](Section%205/Independent%20Regulatory%20Agencies.md)
+- Organization/Government Agency/Build America Bureau
+  - [Department of Transportation](Section%203/Department%20of%20Transportation.md)
+- Organization/Government Agency/Bureau of Alcohol, Tobacco, Firearms, and Explosives
+  - [Department of the Treasury](Section%204/Department%20of%20the%20Treasury.md)
+- Organization/Government Agency/Bureau of Economic Affairs
+  - [The Economy](Section%204/The%20Economy.md)
+- Organization/Government Agency/Bureau of Economic Analysis
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Organization/Government Agency/Bureau of Engraving and Printing
+  - [Department of the Treasury](Section%204/Department%20of%20the%20Treasury.md)
+- Organization/Government Agency/Bureau of Indian Education
+  - [Department of Education](Section%203/Department%20of%20Education.md)
+- Organization/Government Agency/Bureau of Industry and Security
+  - [Intelligence Community](Section%202/Intelligence%20Community.md)
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Organization/Government Agency/Bureau of Justice Statistics
+  - [Department of Justice](Section%203/Department%20of%20Justice.md)
+- Organization/Government Agency/Bureau of Labor Statistics
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Organization/Government Agency/Bureau of Land Management
+  - [Department of the Interior](Section%203/Department%20of%20the%20Interior.md)
+  - [Federal Communications Commission](Section%205/Federal%20Communications%20Commission.md)
+- Organization/Government Agency/Bureau of Ocean Energy Management
+  - [Department of the Interior](Section%203/Department%20of%20the%20Interior.md)
+- Organization/Government Agency/Bureau of Reclamation
+  - [Department of the Interior](Section%203/Department%20of%20the%20Interior.md)
+- Organization/Government Agency/Bureau of Safety and Environmental Enforcement
+  - [Department of the Interior](Section%203/Department%20of%20the%20Interior.md)
+- Organization/Government Agency/Bureau of the Fiscal Service
+  - [Department of the Treasury](Section%204/Department%20of%20the%20Treasury.md)
+- Organization/Government Agency/Census Bureau
+  - [Department of Education](Section%203/Department%20of%20Education.md)
+  - [Department of Housing and Urban Development](Section%203/Department%20of%20Housing%20and%20Urban%20Development.md)
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+  - [The Economy](Section%204/The%20Economy.md)
+- Organization/Government Agency/Centers for Disease Control and Prevention
+  - [The Common Defense](Section%202/The%20Common%20Defense.md)
+  - [Department of Health and Human Services](Section%203/Department%20of%20Health%20and%20Human%20Services.md)
+  - [Department of Housing and Urban Development](Section%203/Department%20of%20Housing%20and%20Urban%20Development.md)
+  - [The General Welfare](Section%203/The%20General%20Welfare.md)
+- Organization/Government Agency/Centers for Medicare and Medicaid Services
+  - [Department of Health and Human Services](Section%203/Department%20of%20Health%20and%20Human%20Services.md)
+- Organization/Government Agency/Central Intelligence Agency
+  - [Department of Homeland Security](Section%202/Department%20of%20Homeland%20Security.md)
+  - [Intelligence Community](Section%202/Intelligence%20Community.md)
+- Organization/Government Agency/Central Personnel Agencies - Managing the Bureaucracy
+  - [Taking the Reins of Government](Section%201/Taking%20the%20Reins%20of%20Government.md)
+- Organization/Government Agency/Chinese Communist Party
+  - [Federal Communications Commission](Section%205/Federal%20Communications%20Commission.md)
+  - [Independent Regulatory Agencies](Section%205/Independent%20Regulatory%20Agencies.md)
+- Organization/Government Agency/Civil Rights Division
+  - [Department of Justice](Section%203/Department%20of%20Justice.md)
+- Organization/Government Agency/Committee on Foreign Investment in the United States
+  - [Intelligence Community](Section%202/Intelligence%20Community.md)
+  - [Department of the Treasury](Section%204/Department%20of%20the%20Treasury.md)
+  - [The Economy](Section%204/The%20Economy.md)
+- Organization/Government Agency/Committee on Foreign Investments in the United States
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Organization/Government Agency/Commodity Credit Corporation
+  - [Department of Agriculture](Section%203/Department%20of%20Agriculture.md)
+- Organization/Government Agency/Commodity Futures Trading Commission
+  - [Financial Regulatory Agencies](Section%205/Financial%20Regulatory%20Agencies.md)
+- Organization/Government Agency/Congress
+  - [Federal Communications Commission](Section%205/Federal%20Communications%20Commission.md)
+  - [Federal Election Commission](Section%205/Federal%20Election%20Commission.md)
+  - [Independent Regulatory Agencies](Section%205/Independent%20Regulatory%20Agencies.md)
+- Organization/Government Agency/Congressional Budget Office
+  - [Department of Agriculture](Section%203/Department%20of%20Agriculture.md)
+  - [Export-Import Bank](Section%204/Export-Import%20Bank.md)
+- Organization/Government Agency/Congressional Research Service
+  - [Department of Agriculture](Section%203/Department%20of%20Agriculture.md)
+  - [Small Business Administration](Section%204/Small%20Business%20Administration.md)
+- Organization/Government Agency/Consumer Financial Protection Bureau
+  - [Financial Regulatory Agencies](Section%205/Financial%20Regulatory%20Agencies.md)
+- Organization/Government Agency/Corporation for Public Broadcasting
+  - [Media Agencies](Section%202/Media%20Agencies.md)
+- Organization/Government Agency/Council of Economic Advisers
+  - [Executive Office of The President of the United States](Section%201/Executive%20Office%20of%20The%20President%20of%20the%20United%20States.md)
+  - [White House Office](Section%201/White%20House%20Office.md)
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Organization/Government Agency/Council on Environmental Quality
+  - [Executive Office of The President of the United States](Section%201/Executive%20Office%20of%20The%20President%20of%20the%20United%20States.md)
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Organization/Government Agency/Criminal Division
+  - [Department of Justice](Section%203/Department%20of%20Justice.md)
+- Organization/Government Agency/Customs and Border Protection
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Organization/Government Agency/Cybersecurity and Infrastructure Security Agency
+  - [Department of Homeland Security](Section%202/Department%20of%20Homeland%20Security.md)
+- Organization/Government Agency/DOE Loan Program
+  - [Department of Energy and Related Commissions](Section%203/Department%20of%20Energy%20and%20Related%20Commissions.md)
+- Organization/Government Agency/Defense Intelligence Agency
+  - [Intelligence Community](Section%202/Intelligence%20Community.md)
+- Organization/Government Agency/Development Finance Corporation
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Organization/Government Agency/Domestic Policy Council
+  - [White House Office](Section%201/White%20House%20Office.md)
+- Organization/Government Agency/Economic Development Administration
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Organization/Government Agency/Environmental Protection Agency
+  - [Onward!](Afterword/Onward!.md)
+  - [The Common Defense](Section%202/The%20Common%20Defense.md)
+  - [Department of Energy and Related Commissions](Section%203/Department%20of%20Energy%20and%20Related%20Commissions.md)
+  - [Department of Housing and Urban Development](Section%203/Department%20of%20Housing%20and%20Urban%20Development.md)
+  - [Department of Transportation](Section%203/Department%20of%20Transportation.md)
+  - [Environmental Protection Agency](Section%203/Environmental%20Protection%20Agency.md)
+  - [The General Welfare](Section%203/The%20General%20Welfare.md)
+- Organization/Government Agency/Equal Employment Opportunity Commission
+  - [Central Personnel Agencies - Managing the Bureaucracy](Section%201/Central%20Personnel%20Agencies%20-%20Managing%20the%20Bureaucracy.md)
+  - [Department of Justice](Section%203/Department%20of%20Justice.md)
+  - [Department of Labor and Related Agencies](Section%203/Department%20of%20Labor%20and%20Related%20Agencies.md)
+- Organization/Government Agency/Executive Office for Immigration Review
+  - [Department of Homeland Security](Section%202/Department%20of%20Homeland%20Security.md)
+  - [Department of Justice](Section%203/Department%20of%20Justice.md)
+- Organization/Government Agency/Executive Office of The President of the United States
+  - [Taking the Reins of Government](Section%201/Taking%20the%20Reins%20of%20Government.md)
+- Organization/Government Agency/Executive Office of the President
+  - [Executive Office of The President of the United States](Section%201/Executive%20Office%20of%20The%20President%20of%20the%20United%20States.md)
+  - [White House Office](Section%201/White%20House%20Office.md)
+- Organization/Government Agency/Export-Import Bank
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+  - [The Economy](Section%204/The%20Economy.md)
+  - [Trade](Section%204/Trade.md)
+- Organization/Government Agency/Export-Import Bank of the United States
+  - [Export-Import Bank](Section%204/Export-Import%20Bank.md)
+- Organization/Government Agency/Farm Service Agency
+  - [Department of Agriculture](Section%203/Department%20of%20Agriculture.md)
+- Organization/Government Agency/Federal Aviation Administration
+  - [Department of Transportation](Section%203/Department%20of%20Transportation.md)
+- Organization/Government Agency/Federal Bureau of Investigation
+  - [Department of Homeland Security](Section%202/Department%20of%20Homeland%20Security.md)
+  - [Intelligence Community](Section%202/Intelligence%20Community.md)
+  - [The Common Defense](Section%202/The%20Common%20Defense.md)
+  - [Department of Justice](Section%203/Department%20of%20Justice.md)
+  - [The General Welfare](Section%203/The%20General%20Welfare.md)
+- Organization/Government Agency/Federal Communications Commission
+  - [Media Agencies](Section%202/Media%20Agencies.md)
+  - [Department of Transportation](Section%203/Department%20of%20Transportation.md)
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+  - [Federal Communications Commission](Section%205/Federal%20Communications%20Commission.md)
+  - [Independent Regulatory Agencies](Section%205/Independent%20Regulatory%20Agencies.md)
+- Organization/Government Agency/Federal Deposit Insurance Corporation
+  - [Department of the Treasury](Section%204/Department%20of%20the%20Treasury.md)
+  - [Financial Regulatory Agencies](Section%205/Financial%20Regulatory%20Agencies.md)
+- Organization/Government Agency/Federal Election Commission
+  - [Federal Election Commission](Section%205/Federal%20Election%20Commission.md)
+  - [Independent Regulatory Agencies](Section%205/Independent%20Regulatory%20Agencies.md)
+- Organization/Government Agency/Federal Emergency Management Administration
+  - [Small Business Administration](Section%204/Small%20Business%20Administration.md)
+- Organization/Government Agency/Federal Emergency Management Agency
+  - [Department of Homeland Security](Section%202/Department%20of%20Homeland%20Security.md)
+  - [Department of Health and Human Services](Section%203/Department%20of%20Health%20and%20Human%20Services.md)
+  - [Department of Transportation](Section%203/Department%20of%20Transportation.md)
+- Organization/Government Agency/Federal Energy Management Program
+  - [Department of Energy and Related Commissions](Section%203/Department%20of%20Energy%20and%20Related%20Commissions.md)
+- Organization/Government Agency/Federal Energy Regulatory Commission
+  - [The Common Defense](Section%202/The%20Common%20Defense.md)
+  - [Department of Energy and Related Commissions](Section%203/Department%20of%20Energy%20and%20Related%20Commissions.md)
+  - [The General Welfare](Section%203/The%20General%20Welfare.md)
+- Organization/Government Agency/Federal Highway Administration
+  - [Department of Transportation](Section%203/Department%20of%20Transportation.md)
+- Organization/Government Agency/Federal Housing Administration
+  - [Department of the Treasury](Section%204/Department%20of%20the%20Treasury.md)
+- Organization/Government Agency/Federal Housing Finance Agency
+  - [Department of Housing and Urban Development](Section%203/Department%20of%20Housing%20and%20Urban%20Development.md)
+- Organization/Government Agency/Federal Labor Relations Authority
+  - [Central Personnel Agencies - Managing the Bureaucracy](Section%201/Central%20Personnel%20Agencies%20-%20Managing%20the%20Bureaucracy.md)
+- Organization/Government Agency/Federal Maritime Commission
+  - [Department of Transportation](Section%203/Department%20of%20Transportation.md)
+- Organization/Government Agency/Federal Mediation and Conciliation Service
+  - [Department of Labor and Related Agencies](Section%203/Department%20of%20Labor%20and%20Related%20Agencies.md)
+- Organization/Government Agency/Federal Motor Carrier Safety Administration
+  - [Department of Transportation](Section%203/Department%20of%20Transportation.md)
+- Organization/Government Agency/Federal Railroad Administration
+  - [Department of Transportation](Section%203/Department%20of%20Transportation.md)
+- Organization/Government Agency/Federal Reserve
+  - [Department of the Treasury](Section%204/Department%20of%20the%20Treasury.md)
+  - [Federal Reserve](Section%204/Federal%20Reserve.md)
+  - [The Economy](Section%204/The%20Economy.md)
+  - [Financial Regulatory Agencies](Section%205/Financial%20Regulatory%20Agencies.md)
+- Organization/Government Agency/Federal Retirement Thrift Investment Board
+  - [Department of Labor and Related Agencies](Section%203/Department%20of%20Labor%20and%20Related%20Agencies.md)
+- Organization/Government Agency/Federal Trade Commission
+  - [Federal Trade Commission](Section%205/Federal%20Trade%20Commission.md)
+  - [Financial Regulatory Agencies](Section%205/Financial%20Regulatory%20Agencies.md)
+  - [Independent Regulatory Agencies](Section%205/Independent%20Regulatory%20Agencies.md)
+- Organization/Government Agency/Federal Transit Administration
+  - [Department of Transportation](Section%203/Department%20of%20Transportation.md)
+- Organization/Government Agency/Financial Crimes Enforcement Network
+  - [Department of the Treasury](Section%204/Department%20of%20the%20Treasury.md)
+  - [The Economy](Section%204/The%20Economy.md)
+- Organization/Government Agency/Financial Industry Regulatory Authority
+  - [Financial Regulatory Agencies](Section%205/Financial%20Regulatory%20Agencies.md)
+- Organization/Government Agency/Financial Stability Oversight Council
+  - [Department of the Treasury](Section%204/Department%20of%20the%20Treasury.md)
+- Organization/Government Agency/Food and Drug Administration
+  - [The Common Defense](Section%202/The%20Common%20Defense.md)
+  - [Department of Health and Human Services](Section%203/Department%20of%20Health%20and%20Human%20Services.md)
+  - [The General Welfare](Section%203/The%20General%20Welfare.md)
+  - [Trade](Section%204/Trade.md)
+- Organization/Government Agency/Food and Nutrition Service
+  - [Department of Agriculture](Section%203/Department%20of%20Agriculture.md)
+- Organization/Government Agency/Foreign Agricultural Service
+  - [Department of Agriculture](Section%203/Department%20of%20Agriculture.md)
+- Organization/Government Agency/Gender Policy Council
+  - [Executive Office of The President of the United States](Section%201/Executive%20Office%20of%20The%20President%20of%20the%20United%20States.md)
+- Organization/Government Agency/General Services Administration
+  - [Central Personnel Agencies - Managing the Bureaucracy](Section%201/Central%20Personnel%20Agencies%20-%20Managing%20the%20Bureaucracy.md)
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Organization/Government Agency/George W. Bush Administration
+  - [Agency for International Development](Section%202/Agency%20for%20International%20Development.md)
+- Organization/Government Agency/Government Accountability Office
+  - [Central Personnel Agencies - Managing the Bureaucracy](Section%201/Central%20Personnel%20Agencies%20-%20Managing%20the%20Bureaucracy.md)
+  - [Department of Defense](Section%202/Department%20of%20Defense.md)
+  - [Department of Homeland Security](Section%202/Department%20of%20Homeland%20Security.md)
+  - [Department of Agriculture](Section%203/Department%20of%20Agriculture.md)
+  - [Department of the Treasury](Section%204/Department%20of%20the%20Treasury.md)
+  - [Small Business Administration](Section%204/Small%20Business%20Administration.md)
+  - [Federal Communications Commission](Section%205/Federal%20Communications%20Commission.md)
+- Organization/Government Agency/Government National Mortgage Association
+  - [Department of Housing and Urban Development](Section%203/Department%20of%20Housing%20and%20Urban%20Development.md)
+  - [Department of the Treasury](Section%204/Department%20of%20the%20Treasury.md)
+- Organization/Government Agency/Great Lakes St. Lawrence Seaway Development Corporation
+  - [Department of Transportation](Section%203/Department%20of%20Transportation.md)
+- Organization/Government Agency/Health Resources and Services Administration
+  - [Department of Health and Human Services](Section%203/Department%20of%20Health%20and%20Human%20Services.md)
+- Organization/Government Agency/Homeland Security Council
+  - [Executive Office of The President of the United States](Section%201/Executive%20Office%20of%20The%20President%20of%20the%20United%20States.md)
+- Organization/Government Agency/Immigration and Customs Enforcement
+  - [Department of Homeland Security](Section%202/Department%20of%20Homeland%20Security.md)
+  - [Department of Justice](Section%203/Department%20of%20Justice.md)
+- Organization/Government Agency/Indian Health Service
+  - [Department of Health and Human Services](Section%203/Department%20of%20Health%20and%20Human%20Services.md)
+- Organization/Government Agency/Institute of Education Sciences
+  - [Department of Education](Section%203/Department%20of%20Education.md)
+- Organization/Government Agency/Intelligence Advanced Research Projects Activity
+  - [Intelligence Community](Section%202/Intelligence%20Community.md)
+- Organization/Government Agency/Intelligence Community
+  - [White House Office](Section%201/White%20House%20Office.md)
+  - [Department of Homeland Security](Section%202/Department%20of%20Homeland%20Security.md)
+  - [Intelligence Community](Section%202/Intelligence%20Community.md)
+  - [The Common Defense](Section%202/The%20Common%20Defense.md)
+  - [Department of Energy and Related Commissions](Section%203/Department%20of%20Energy%20and%20Related%20Commissions.md)
+  - [Department of the Treasury](Section%204/Department%20of%20the%20Treasury.md)
+- Organization/Government Agency/Intergovernmental Affairs
+  - [White House Office](Section%201/White%20House%20Office.md)
+- Organization/Government Agency/Internal Revenue Service
+  - [Onward!](Afterword/Onward!.md)
+  - [Department of the Treasury](Section%204/Department%20of%20the%20Treasury.md)
+  - [The Economy](Section%204/The%20Economy.md)
+- Organization/Government Agency/International Trade Administration
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+  - [The Economy](Section%204/The%20Economy.md)
+- Organization/Government Agency/Joint Committee on Taxation
+  - [Department of the Treasury](Section%204/Department%20of%20the%20Treasury.md)
+- Organization/Government Agency/Maritime Administration
+  - [Department of Transportation](Section%203/Department%20of%20Transportation.md)
+- Organization/Government Agency/Merit Systems Protection Board
+  - [Central Personnel Agencies - Managing the Bureaucracy](Section%201/Central%20Personnel%20Agencies%20-%20Managing%20the%20Bureaucracy.md)
+- Organization/Government Agency/Middle East Broadcasting Network
+  - [Media Agencies](Section%202/Media%20Agencies.md)
+- Organization/Government Agency/Millennium Challenge Corporation
+  - [Agency for International Development](Section%202/Agency%20for%20International%20Development.md)
+- Organization/Government Agency/Minority Business Development Agency
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Organization/Government Agency/NOAA Corps
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Organization/Government Agency/National Advisory Committee on Racial, Ethnic, and Other Populations
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Organization/Government Agency/National Commission for Education Statistics
+  - [Department of Education](Section%203/Department%20of%20Education.md)
+- Organization/Government Agency/National Counterterrorism Center
+  - [Intelligence Community](Section%202/Intelligence%20Community.md)
+- Organization/Government Agency/National Credit Union Administration
+  - [Department of the Treasury](Section%204/Department%20of%20the%20Treasury.md)
+  - [Financial Regulatory Agencies](Section%205/Financial%20Regulatory%20Agencies.md)
+- Organization/Government Agency/National Economic Council
+  - [Executive Office of The President of the United States](Section%201/Executive%20Office%20of%20The%20President%20of%20the%20United%20States.md)
+  - [White House Office](Section%201/White%20House%20Office.md)
+- Organization/Government Agency/National Environmental Satellite, Data and Information Service
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Organization/Government Agency/National Geospatial-Intelligence Agency
+  - [Intelligence Community](Section%202/Intelligence%20Community.md)
+- Organization/Government Agency/National Highway Traffic Safety Administration
+  - [Department of Transportation](Section%203/Department%20of%20Transportation.md)
+- Organization/Government Agency/National Hurricane Center
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Organization/Government Agency/National Institute of Allergy and Infectious Diseases
+  - [Department of Health and Human Services](Section%203/Department%20of%20Health%20and%20Human%20Services.md)
+  - [The General Welfare](Section%203/The%20General%20Welfare.md)
+- Organization/Government Agency/National Institute of Justice
+  - [Department of Justice](Section%203/Department%20of%20Justice.md)
+- Organization/Government Agency/National Institute of Standards and Technology
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Organization/Government Agency/National Institutes of Health
+  - [The Common Defense](Section%202/The%20Common%20Defense.md)
+  - [Department of Health and Human Services](Section%203/Department%20of%20Health%20and%20Human%20Services.md)
+  - [The General Welfare](Section%203/The%20General%20Welfare.md)
+- Organization/Government Agency/National Labor Relations Board
+  - [Department of Labor and Related Agencies](Section%203/Department%20of%20Labor%20and%20Related%20Agencies.md)
+- Organization/Government Agency/National Marine Fisheries Service
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Organization/Government Agency/National Mediation Board
+  - [Department of Labor and Related Agencies](Section%203/Department%20of%20Labor%20and%20Related%20Agencies.md)
+- Organization/Government Agency/National Nuclear Security Administration
+  - [Department of Energy and Related Commissions](Section%203/Department%20of%20Energy%20and%20Related%20Commissions.md)
+- Organization/Government Agency/National Ocean Service
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Organization/Government Agency/National Oceanic and Atmospheric Administration
+  - [Agency for International Development](Section%202/Agency%20for%20International%20Development.md)
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Organization/Government Agency/National Park Service
+  - [Department of the Interior](Section%203/Department%20of%20the%20Interior.md)
+- Organization/Government Agency/National Public Radio
+  - [Media Agencies](Section%202/Media%20Agencies.md)
+- Organization/Government Agency/National Science Foundation
+  - [Department of Education](Section%203/Department%20of%20Education.md)
+- Organization/Government Agency/National Security Agency
+  - [Department of Defense](Section%202/Department%20of%20Defense.md)
+  - [Department of Homeland Security](Section%202/Department%20of%20Homeland%20Security.md)
+  - [Intelligence Community](Section%202/Intelligence%20Community.md)
+- Organization/Government Agency/National Security Council
+  - [Executive Office of The President of the United States](Section%201/Executive%20Office%20of%20The%20President%20of%20the%20United%20States.md)
+  - [White House Office](Section%201/White%20House%20Office.md)
+  - [Department of State](Section%202/Department%20of%20State.md)
+  - [Intelligence Community](Section%202/Intelligence%20Community.md)
+  - [Media Agencies](Section%202/Media%20Agencies.md)
+  - [The Common Defense](Section%202/The%20Common%20Defense.md)
+- Organization/Government Agency/National Security Division
+  - [Department of Justice](Section%203/Department%20of%20Justice.md)
+- Organization/Government Agency/National Space Council
+  - [Executive Office of The President of the United States](Section%201/Executive%20Office%20of%20The%20President%20of%20the%20United%20States.md)
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Organization/Government Agency/National Telecommunications and Information Administration
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Organization/Government Agency/National Telecommunications and Information Service
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Organization/Government Agency/National Weather Service
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Organization/Government Agency/Natural Resources Conservation Service
+  - [Department of Agriculture](Section%203/Department%20of%20Agriculture.md)
+- Organization/Government Agency/North American Electric Reliability Corporation
+  - [Department of Energy and Related Commissions](Section%203/Department%20of%20Energy%20and%20Related%20Commissions.md)
+- Organization/Government Agency/Nuclear Regulatory Commission
+  - [Department of Energy and Related Commissions](Section%203/Department%20of%20Energy%20and%20Related%20Commissions.md)
+- Organization/Government Agency/Obama Administration
+  - [Agency for International Development](Section%202/Agency%20for%20International%20Development.md)
+  - [Department of State](Section%202/Department%20of%20State.md)
+  - [Department of Education](Section%203/Department%20of%20Education.md)
+  - [Department of Labor and Related Agencies](Section%203/Department%20of%20Labor%20and%20Related%20Agencies.md)
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+  - [Export-Import Bank](Section%204/Export-Import%20Bank.md)
+- Organization/Government Agency/Occupational Safety and Health Administration
+  - [Onward!](Afterword/Onward!.md)
+- Organization/Government Agency/Oceanic and Atmospheric Research
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Organization/Government Agency/Office for Civil Rights
+  - [Department of Education](Section%203/Department%20of%20Education.md)
+  - [Department of Health and Human Services](Section%203/Department%20of%20Health%20and%20Human%20Services.md)
+- Organization/Government Agency/Office for Post-secondary Education
+  - [Department of Education](Section%203/Department%20of%20Education.md)
+- Organization/Government Agency/Office of Advocacy
+  - [Small Business Administration](Section%204/Small%20Business%20Administration.md)
+  - [The Economy](Section%204/The%20Economy.md)
+- Organization/Government Agency/Office of Air and Marine
+  - [Department of Homeland Security](Section%202/Department%20of%20Homeland%20Security.md)
+- Organization/Government Agency/Office of Cabinet Affairs
+  - [White House Office](Section%201/White%20House%20Office.md)
+- Organization/Government Agency/Office of Career, Technical, and Adult Education
+  - [Department of Education](Section%203/Department%20of%20Education.md)
+- Organization/Government Agency/Office of Child Support Enforcement
+  - [Department of Health and Human Services](Section%203/Department%20of%20Health%20and%20Human%20Services.md)
+- Organization/Government Agency/Office of Clean Energy Demonstrations
+  - [Department of Energy and Related Commissions](Section%203/Department%20of%20Energy%20and%20Related%20Commissions.md)
+- Organization/Government Agency/Office of Community Planning and Development
+  - [Department of Housing and Urban Development](Section%203/Department%20of%20Housing%20and%20Urban%20Development.md)
+- Organization/Government Agency/Office of Countering Weapons of Mass Destruction
+  - [Department of Homeland Security](Section%202/Department%20of%20Homeland%20Security.md)
+- Organization/Government Agency/Office of Cuba Broadcasting
+  - [Media Agencies](Section%202/Media%20Agencies.md)
+- Organization/Government Agency/Office of Cybersecurity, Energy Security, and Emergency Response
+  - [Department of Energy and Related Commissions](Section%203/Department%20of%20Energy%20and%20Related%20Commissions.md)
+- Organization/Government Agency/Office of Electricity
+  - [Department of Energy and Related Commissions](Section%203/Department%20of%20Energy%20and%20Related%20Commissions.md)
+- Organization/Government Agency/Office of Elementary and Secondary Education
+  - [Department of Education](Section%203/Department%20of%20Education.md)
+- Organization/Government Agency/Office of Energy Efficiency and Renewable Energy
+  - [Department of Energy and Related Commissions](Section%203/Department%20of%20Energy%20and%20Related%20Commissions.md)
+- Organization/Government Agency/Office of Environmental Management
+  - [Department of Energy and Related Commissions](Section%203/Department%20of%20Energy%20and%20Related%20Commissions.md)
+- Organization/Government Agency/Office of Fair Housing and Equal Opportunity
+  - [Department of Housing and Urban Development](Section%203/Department%20of%20Housing%20and%20Urban%20Development.md)
+- Organization/Government Agency/Office of Federal Contract Compliance Programs
+  - [Department of Labor and Related Agencies](Section%203/Department%20of%20Labor%20and%20Related%20Agencies.md)
+- Organization/Government Agency/Office of Federal Student Aid
+  - [Department of Education](Section%203/Department%20of%20Education.md)
+- Organization/Government Agency/Office of Field Operations
+  - [Department of Homeland Security](Section%202/Department%20of%20Homeland%20Security.md)
+- Organization/Government Agency/Office of Field Policy and Management
+  - [Department of Housing and Urban Development](Section%203/Department%20of%20Housing%20and%20Urban%20Development.md)
+- Organization/Government Agency/Office of Financial Research
+  - [Department of the Treasury](Section%204/Department%20of%20the%20Treasury.md)
+- Organization/Government Agency/Office of Fossil Energy and Carbon Management
+  - [Department of Energy and Related Commissions](Section%203/Department%20of%20Energy%20and%20Related%20Commissions.md)
+- Organization/Government Agency/Office of General Counsel
+  - [Department of Housing and Urban Development](Section%203/Department%20of%20Housing%20and%20Urban%20Development.md)
+- Organization/Government Agency/Office of Global Affairs
+  - [Department of Health and Human Services](Section%203/Department%20of%20Health%20and%20Human%20Services.md)
+- Organization/Government Agency/Office of Grid Deployment
+  - [Department of Energy and Related Commissions](Section%203/Department%20of%20Energy%20and%20Related%20Commissions.md)
+- Organization/Government Agency/Office of Head Start
+  - [Department of Health and Human Services](Section%203/Department%20of%20Health%20and%20Human%20Services.md)
+- Organization/Government Agency/Office of Healthy Homes and Lead Hazard Control
+  - [Department of Housing and Urban Development](Section%203/Department%20of%20Housing%20and%20Urban%20Development.md)
+- Organization/Government Agency/Office of Housing and Federal Housing Administration
+  - [Department of Housing and Urban Development](Section%203/Department%20of%20Housing%20and%20Urban%20Development.md)
+- Organization/Government Agency/Office of Immigration Litigation
+  - [Department of Homeland Security](Section%202/Department%20of%20Homeland%20Security.md)
+- Organization/Government Agency/Office of Information and Regulatory Affairs
+  - [Executive Office of The President of the United States](Section%201/Executive%20Office%20of%20The%20President%20of%20the%20United%20States.md)
+- Organization/Government Agency/Office of Inspector General
+  - [Department of Homeland Security](Section%202/Department%20of%20Homeland%20Security.md)
+  - [Department of Housing and Urban Development](Section%203/Department%20of%20Housing%20and%20Urban%20Development.md)
+- Organization/Government Agency/Office of Labor-Management Standards
+  - [Department of Labor and Related Agencies](Section%203/Department%20of%20Labor%20and%20Related%20Agencies.md)
+- Organization/Government Agency/Office of Legislative Affairs
+  - [White House Office](Section%201/White%20House%20Office.md)
+  - [Department of Justice](Section%203/Department%20of%20Justice.md)
+- Organization/Government Agency/Office of Management and Budget
+  - [Central Personnel Agencies - Managing the Bureaucracy](Section%201/Central%20Personnel%20Agencies%20-%20Managing%20the%20Bureaucracy.md)
+  - [Executive Office of The President of the United States](Section%201/Executive%20Office%20of%20The%20President%20of%20the%20United%20States.md)
+  - [Taking the Reins of Government](Section%201/Taking%20the%20Reins%20of%20Government.md)
+  - [Media Agencies](Section%202/Media%20Agencies.md)
+  - [Department of Agriculture](Section%203/Department%20of%20Agriculture.md)
+  - [Department of Veterans Affairs](Section%203/Department%20of%20Veterans%20Affairs.md)
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Organization/Government Agency/Office of National Drug Control Policy
+  - [Executive Office of The President of the United States](Section%201/Executive%20Office%20of%20The%20President%20of%20the%20United%20States.md)
+- Organization/Government Agency/Office of Nuclear Energy
+  - [Department of Energy and Related Commissions](Section%203/Department%20of%20Energy%20and%20Related%20Commissions.md)
+- Organization/Government Agency/Office of Personnel Management
+  - [Central Personnel Agencies - Managing the Bureaucracy](Section%201/Central%20Personnel%20Agencies%20-%20Managing%20the%20Bureaucracy.md)
+  - [White House Office](Section%201/White%20House%20Office.md)
+  - [Intelligence Community](Section%202/Intelligence%20Community.md)
+  - [Media Agencies](Section%202/Media%20Agencies.md)
+- Organization/Government Agency/Office of Policy Development and Research
+  - [Department of Housing and Urban Development](Section%203/Department%20of%20Housing%20and%20Urban%20Development.md)
+- Organization/Government Agency/Office of Political Affairs
+  - [White House Office](Section%201/White%20House%20Office.md)
+- Organization/Government Agency/Office of Presidential Personnel
+  - [White House Office](Section%201/White%20House%20Office.md)
+- Organization/Government Agency/Office of Public Affairs
+  - [Department of Justice](Section%203/Department%20of%20Justice.md)
+- Organization/Government Agency/Office of Public Liaison
+  - [White House Office](Section%201/White%20House%20Office.md)
+- Organization/Government Agency/Office of Public and Indian Housing
+  - [Department of Housing and Urban Development](Section%203/Department%20of%20Housing%20and%20Urban%20Development.md)
+- Organization/Government Agency/Office of Refugee Resettlement
+  - [Department of Homeland Security](Section%202/Department%20of%20Homeland%20Security.md)
+  - [Department of Health and Human Services](Section%203/Department%20of%20Health%20and%20Human%20Services.md)
+- Organization/Government Agency/Office of Science and Technology Policy
+  - [Executive Office of The President of the United States](Section%201/Executive%20Office%20of%20The%20President%20of%20the%20United%20States.md)
+- Organization/Government Agency/Office of Space Commerce
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Organization/Government Agency/Office of Special Counsel
+  - [Central Personnel Agencies - Managing the Bureaucracy](Section%201/Central%20Personnel%20Agencies%20-%20Managing%20the%20Bureaucracy.md)
+- Organization/Government Agency/Office of Special Education and Rehabilitative Services
+  - [Department of Education](Section%203/Department%20of%20Education.md)
+- Organization/Government Agency/Office of State and Community Energy Programs
+  - [Department of Energy and Related Commissions](Section%203/Department%20of%20Energy%20and%20Related%20Commissions.md)
+- Organization/Government Agency/Office of Strategic Services
+  - [Intelligence Community](Section%202/Intelligence%20Community.md)
+- Organization/Government Agency/Office of Surface Mining Reclamation and Enforcement
+  - [Department of the Interior](Section%203/Department%20of%20the%20Interior.md)
+- Organization/Government Agency/Office of Thrift Supervision
+  - [Financial Regulatory Agencies](Section%205/Financial%20Regulatory%20Agencies.md)
+- Organization/Government Agency/Office of the Assistant Secretary for Health
+  - [Department of Health and Human Services](Section%203/Department%20of%20Health%20and%20Human%20Services.md)
+- Organization/Government Agency/Office of the Comptroller of the Currency
+  - [Department of the Treasury](Section%204/Department%20of%20the%20Treasury.md)
+  - [Financial Regulatory Agencies](Section%205/Financial%20Regulatory%20Agencies.md)
+- Organization/Government Agency/Office of the Director of National Intelligence
+  - [Intelligence Community](Section%202/Intelligence%20Community.md)
+  - [Media Agencies](Section%202/Media%20Agencies.md)
+- Organization/Government Agency/Office of the Surgeon General
+  - [Department of Health and Human Services](Section%203/Department%20of%20Health%20and%20Human%20Services.md)
+- Organization/Government Agency/Office of the U.S. Trade Representative
+  - [Executive Office of The President of the United States](Section%201/Executive%20Office%20of%20The%20President%20of%20the%20United%20States.md)
+  - [Department of Agriculture](Section%203/Department%20of%20Agriculture.md)
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+  - [Department of the Treasury](Section%204/Department%20of%20the%20Treasury.md)
+- Organization/Government Agency/Office of the Vice President
+  - [Executive Office of The President of the United States](Section%201/Executive%20Office%20of%20The%20President%20of%20the%20United%20States.md)
+  - [White House Office](Section%201/White%20House%20Office.md)
+- Organization/Government Agency/Open Technology Fund
+  - [Media Agencies](Section%202/Media%20Agencies.md)
+- Organization/Government Agency/Patent Trial and Appeal Board
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Organization/Government Agency/Pension Benefit Guaranty Corporation
+  - [Department of Labor and Related Agencies](Section%203/Department%20of%20Labor%20and%20Related%20Agencies.md)
+- Organization/Government Agency/Pipeline Safety and Hazardous Material Administration
+  - [Department of Transportation](Section%203/Department%20of%20Transportation.md)
+- Organization/Government Agency/President's Intelligence Advisory Board
+  - [Intelligence Community](Section%202/Intelligence%20Community.md)
+- Organization/Government Agency/Public Broadcasting Service
+  - [Media Agencies](Section%202/Media%20Agencies.md)
+- Organization/Government Agency/Public Company Accounting Oversight Board
+  - [Trade](Section%204/Trade.md)
+  - [Financial Regulatory Agencies](Section%205/Financial%20Regulatory%20Agencies.md)
+- Organization/Government Agency/Radio Free Asia
+  - [Media Agencies](Section%202/Media%20Agencies.md)
+- Organization/Government Agency/Radio Free Europe/Radio Liberty
+  - [Media Agencies](Section%202/Media%20Agencies.md)
+- Organization/Government Agency/SEC Division of Economic and Risk Analysis
+  - [Financial Regulatory Agencies](Section%205/Financial%20Regulatory%20Agencies.md)
+- Organization/Government Agency/Science and Technology Directorate
+  - [Department of Homeland Security](Section%202/Department%20of%20Homeland%20Security.md)
+- Organization/Government Agency/Securities and Exchange Commission
+  - [Department of Education](Section%203/Department%20of%20Education.md)
+  - [Department of Justice](Section%203/Department%20of%20Justice.md)
+  - [Small Business Administration](Section%204/Small%20Business%20Administration.md)
+  - [Financial Regulatory Agencies](Section%205/Financial%20Regulatory%20Agencies.md)
+  - [Independent Regulatory Agencies](Section%205/Independent%20Regulatory%20Agencies.md)
+- Organization/Government Agency/SelectUSA
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Organization/Government Agency/Self-Regulatory Organizations
+  - [Financial Regulatory Agencies](Section%205/Financial%20Regulatory%20Agencies.md)
+- Organization/Government Agency/Small Business Administration
+  - [Small Business Administration](Section%204/Small%20Business%20Administration.md)
+  - [The Economy](Section%204/The%20Economy.md)
+- Organization/Government Agency/Small Business Investment Companies
+  - [Small Business Administration](Section%204/Small%20Business%20Administration.md)
+- Organization/Government Agency/Space Development Agency
+  - [Department of Defense](Section%202/Department%20of%20Defense.md)
+  - [Intelligence Community](Section%202/Intelligence%20Community.md)
+- Organization/Government Agency/Strategic Petroleum Reserve
+  - [Department of Energy and Related Commissions](Section%203/Department%20of%20Energy%20and%20Related%20Commissions.md)
+- Organization/Government Agency/Supreme Court
+  - [Department of Health and Human Services](Section%203/Department%20of%20Health%20and%20Human%20Services.md)
+  - [Department of Justice](Section%203/Department%20of%20Justice.md)
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+  - [Small Business Administration](Section%204/Small%20Business%20Administration.md)
+- Organization/Government Agency/Supreme Court of the United States
+  - [Financial Regulatory Agencies](Section%205/Financial%20Regulatory%20Agencies.md)
+- Organization/Government Agency/Terrorism and Financial Intelligence
+  - [Department of the Treasury](Section%204/Department%20of%20the%20Treasury.md)
+- Organization/Government Agency/Thrift Savings Plan
+  - [Department of Labor and Related Agencies](Section%203/Department%20of%20Labor%20and%20Related%20Agencies.md)
+- Organization/Government Agency/Transportation Security Administration
+  - [Department of Homeland Security](Section%202/Department%20of%20Homeland%20Security.md)
+- Organization/Government Agency/Trump Administration
+  - [Agency for International Development](Section%202/Agency%20for%20International%20Development.md)
+  - [Department of Agriculture](Section%203/Department%20of%20Agriculture.md)
+  - [Department of Education](Section%203/Department%20of%20Education.md)
+  - [Department of Housing and Urban Development](Section%203/Department%20of%20Housing%20and%20Urban%20Development.md)
+  - [Department of Labor and Related Agencies](Section%203/Department%20of%20Labor%20and%20Related%20Agencies.md)
+  - [Department of Transportation](Section%203/Department%20of%20Transportation.md)
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+  - [The Economy](Section%204/The%20Economy.md)
+  - [Federal Communications Commission](Section%205/Federal%20Communications%20Commission.md)
+  - [Independent Regulatory Agencies](Section%205/Independent%20Regulatory%20Agencies.md)
+- Organization/Government Agency/U.S. Agency for Global Media
+  - [Agency for International Development](Section%202/Agency%20for%20International%20Development.md)
+  - [Department of State](Section%202/Department%20of%20State.md)
+  - [Media Agencies](Section%202/Media%20Agencies.md)
+  - [The Common Defense](Section%202/The%20Common%20Defense.md)
+- Organization/Government Agency/U.S. Agency for International Development
+  - [Agency for International Development](Section%202/Agency%20for%20International%20Development.md)
+  - [Department of State](Section%202/Department%20of%20State.md)
+  - [The Common Defense](Section%202/The%20Common%20Defense.md)
+- Organization/Government Agency/U.S. Air Force
+  - [Department of Defense](Section%202/Department%20of%20Defense.md)
+- Organization/Government Agency/U.S. Army
+  - [Department of Defense](Section%202/Department%20of%20Defense.md)
+- Organization/Government Agency/U.S. Citizenship and Immigration Services
+  - [Department of Homeland Security](Section%202/Department%20of%20Homeland%20Security.md)
+- Organization/Government Agency/U.S. Coast Guard
+  - [Department of Homeland Security](Section%202/Department%20of%20Homeland%20Security.md)
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+  - [Department of the Treasury](Section%204/Department%20of%20the%20Treasury.md)
+- Organization/Government Agency/U.S. Court of Appeals for the Fifth Circuit
+  - [Federal Communications Commission](Section%205/Federal%20Communications%20Commission.md)
+  - [Financial Regulatory Agencies](Section%205/Financial%20Regulatory%20Agencies.md)
+- Organization/Government Agency/U.S. Customs and Border Protection
+  - [Department of Homeland Security](Section%202/Department%20of%20Homeland%20Security.md)
+- Organization/Government Agency/U.S. Cyber Command
+  - [Department of Defense](Section%202/Department%20of%20Defense.md)
+  - [Intelligence Community](Section%202/Intelligence%20Community.md)
+- Organization/Government Agency/U.S. Department of Agriculture
+  - [The Common Defense](Section%202/The%20Common%20Defense.md)
+  - [Department of Agriculture](Section%203/Department%20of%20Agriculture.md)
+  - [Department of Education](Section%203/Department%20of%20Education.md)
+  - [Department of Housing and Urban Development](Section%203/Department%20of%20Housing%20and%20Urban%20Development.md)
+  - [The General Welfare](Section%203/The%20General%20Welfare.md)
+- Organization/Government Agency/U.S. Department of Commerce
+  - [Intelligence Community](Section%202/Intelligence%20Community.md)
+  - [Department of Education](Section%203/Department%20of%20Education.md)
+  - [Department of Energy and Related Commissions](Section%203/Department%20of%20Energy%20and%20Related%20Commissions.md)
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+  - [Department of the Treasury](Section%204/Department%20of%20the%20Treasury.md)
+  - [Small Business Administration](Section%204/Small%20Business%20Administration.md)
+  - [The Economy](Section%204/The%20Economy.md)
+- Organization/Government Agency/U.S. Department of Defense
+  - [A Promise to America](Foreword/A%20Promise%20to%20America.md)
+  - [White House Office](Section%201/White%20House%20Office.md)
+  - [Department of Defense](Section%202/Department%20of%20Defense.md)
+  - [Department of Homeland Security](Section%202/Department%20of%20Homeland%20Security.md)
+  - [Intelligence Community](Section%202/Intelligence%20Community.md)
+  - [The Common Defense](Section%202/The%20Common%20Defense.md)
+  - [Department of Energy and Related Commissions](Section%203/Department%20of%20Energy%20and%20Related%20Commissions.md)
+  - [Department of Justice](Section%203/Department%20of%20Justice.md)
+  - [Department of Veterans Affairs](Section%203/Department%20of%20Veterans%20Affairs.md)
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+  - [Department of the Treasury](Section%204/Department%20of%20the%20Treasury.md)
+- Organization/Government Agency/U.S. Department of Defense Education Activity
+  - [Department of Education](Section%203/Department%20of%20Education.md)
+- Organization/Government Agency/U.S. Department of Education
+  - [A Promise to America](Foreword/A%20Promise%20to%20America.md)
+  - [Department of Homeland Security](Section%202/Department%20of%20Homeland%20Security.md)
+  - [The Common Defense](Section%202/The%20Common%20Defense.md)
+  - [Department of Education](Section%203/Department%20of%20Education.md)
+  - [Department of Justice](Section%203/Department%20of%20Justice.md)
+  - [The General Welfare](Section%203/The%20General%20Welfare.md)
+- Organization/Government Agency/U.S. Department of Energy
+  - [The Common Defense](Section%202/The%20Common%20Defense.md)
+  - [Department of Energy and Related Commissions](Section%203/Department%20of%20Energy%20and%20Related%20Commissions.md)
+  - [Department of Transportation](Section%203/Department%20of%20Transportation.md)
+  - [The General Welfare](Section%203/The%20General%20Welfare.md)
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Organization/Government Agency/U.S. Department of Health and Human Services
+  - [Department of Homeland Security](Section%202/Department%20of%20Homeland%20Security.md)
+  - [The Common Defense](Section%202/The%20Common%20Defense.md)
+  - [Department of Agriculture](Section%203/Department%20of%20Agriculture.md)
+  - [Department of Education](Section%203/Department%20of%20Education.md)
+  - [Department of Health and Human Services](Section%203/Department%20of%20Health%20and%20Human%20Services.md)
+  - [The General Welfare](Section%203/The%20General%20Welfare.md)
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Organization/Government Agency/U.S. Department of Homeland Security
+  - [A Promise to America](Foreword/A%20Promise%20to%20America.md)
+  - [Agency for International Development](Section%202/Agency%20for%20International%20Development.md)
+  - [Department of Defense](Section%202/Department%20of%20Defense.md)
+  - [Department of Homeland Security](Section%202/Department%20of%20Homeland%20Security.md)
+  - [The Common Defense](Section%202/The%20Common%20Defense.md)
+  - [Department of Health and Human Services](Section%203/Department%20of%20Health%20and%20Human%20Services.md)
+  - [Department of Housing and Urban Development](Section%203/Department%20of%20Housing%20and%20Urban%20Development.md)
+  - [Department of Justice](Section%203/Department%20of%20Justice.md)
+  - [Department of Transportation](Section%203/Department%20of%20Transportation.md)
+  - [Department of the Treasury](Section%204/Department%20of%20the%20Treasury.md)
+- Organization/Government Agency/U.S. Department of Housing and Urban Development
+  - [The Common Defense](Section%202/The%20Common%20Defense.md)
+  - [Department of Housing and Urban Development](Section%203/Department%20of%20Housing%20and%20Urban%20Development.md)
+  - [Department of Justice](Section%203/Department%20of%20Justice.md)
+  - [The General Welfare](Section%203/The%20General%20Welfare.md)
+- Organization/Government Agency/U.S. Department of Justice
+  - [A Promise to America](Foreword/A%20Promise%20to%20America.md)
+  - [Central Personnel Agencies - Managing the Bureaucracy](Section%201/Central%20Personnel%20Agencies%20-%20Managing%20the%20Bureaucracy.md)
+  - [White House Office](Section%201/White%20House%20Office.md)
+  - [Department of Homeland Security](Section%202/Department%20of%20Homeland%20Security.md)
+  - [Media Agencies](Section%202/Media%20Agencies.md)
+  - [The Common Defense](Section%202/The%20Common%20Defense.md)
+  - [Department of Education](Section%203/Department%20of%20Education.md)
+  - [Department of Health and Human Services](Section%203/Department%20of%20Health%20and%20Human%20Services.md)
+  - [Department of Housing and Urban Development](Section%203/Department%20of%20Housing%20and%20Urban%20Development.md)
+  - [Department of Justice](Section%203/Department%20of%20Justice.md)
+  - [Department of Labor and Related Agencies](Section%203/Department%20of%20Labor%20and%20Related%20Agencies.md)
+  - [The General Welfare](Section%203/The%20General%20Welfare.md)
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+  - [Department of the Treasury](Section%204/Department%20of%20the%20Treasury.md)
+  - [Small Business Administration](Section%204/Small%20Business%20Administration.md)
+  - [Federal Election Commission](Section%205/Federal%20Election%20Commission.md)
+  - [Independent Regulatory Agencies](Section%205/Independent%20Regulatory%20Agencies.md)
+- Organization/Government Agency/U.S. Department of Labor
+  - [Department of Homeland Security](Section%202/Department%20of%20Homeland%20Security.md)
+  - [The Common Defense](Section%202/The%20Common%20Defense.md)
+  - [Department of Education](Section%203/Department%20of%20Education.md)
+  - [Department of Labor and Related Agencies](Section%203/Department%20of%20Labor%20and%20Related%20Agencies.md)
+  - [The General Welfare](Section%203/The%20General%20Welfare.md)
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Organization/Government Agency/U.S. Department of State
+  - [A Promise to America](Foreword/A%20Promise%20to%20America.md)
+  - [White House Office](Section%201/White%20House%20Office.md)
+  - [Agency for International Development](Section%202/Agency%20for%20International%20Development.md)
+  - [Department of Homeland Security](Section%202/Department%20of%20Homeland%20Security.md)
+  - [Department of State](Section%202/Department%20of%20State.md)
+  - [Media Agencies](Section%202/Media%20Agencies.md)
+  - [The Common Defense](Section%202/The%20Common%20Defense.md)
+  - [Department of Energy and Related Commissions](Section%203/Department%20of%20Energy%20and%20Related%20Commissions.md)
+  - [Department of Justice](Section%203/Department%20of%20Justice.md)
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+  - [Department of the Treasury](Section%204/Department%20of%20the%20Treasury.md)
+- Organization/Government Agency/U.S. Department of Transportation
+  - [Department of Homeland Security](Section%202/Department%20of%20Homeland%20Security.md)
+  - [The Common Defense](Section%202/The%20Common%20Defense.md)
+  - [Department of Transportation](Section%203/Department%20of%20Transportation.md)
+  - [The General Welfare](Section%203/The%20General%20Welfare.md)
+- Organization/Government Agency/U.S. Department of Veterans Affairs
+  - [The Common Defense](Section%202/The%20Common%20Defense.md)
+  - [Department of Housing and Urban Development](Section%203/Department%20of%20Housing%20and%20Urban%20Development.md)
+  - [Department of Veterans Affairs](Section%203/Department%20of%20Veterans%20Affairs.md)
+  - [The General Welfare](Section%203/The%20General%20Welfare.md)
+- Organization/Government Agency/U.S. Department of the Interior
+  - [Department of Homeland Security](Section%202/Department%20of%20Homeland%20Security.md)
+  - [Department of Education](Section%203/Department%20of%20Education.md)
+  - [Department of the Interior](Section%203/Department%20of%20the%20Interior.md)
+- Organization/Government Agency/U.S. Department of the Treasury
+  - [Executive Office of The President of the United States](Section%201/Executive%20Office%20of%20The%20President%20of%20the%20United%20States.md)
+  - [Department of Homeland Security](Section%202/Department%20of%20Homeland%20Security.md)
+  - [Intelligence Community](Section%202/Intelligence%20Community.md)
+  - [Department of Education](Section%203/Department%20of%20Education.md)
+  - [Department of Energy and Related Commissions](Section%203/Department%20of%20Energy%20and%20Related%20Commissions.md)
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+  - [Department of the Treasury](Section%204/Department%20of%20the%20Treasury.md)
+  - [Federal Reserve](Section%204/Federal%20Reserve.md)
+  - [The Economy](Section%204/The%20Economy.md)
+  - [Federal Communications Commission](Section%205/Federal%20Communications%20Commission.md)
+- Organization/Government Agency/U.S. Energy Information Agency
+  - [Department of Energy and Related Commissions](Section%203/Department%20of%20Energy%20and%20Related%20Commissions.md)
+- Organization/Government Agency/U.S. Fish and Wildlife Service
+  - [Department of the Interior](Section%203/Department%20of%20the%20Interior.md)
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Organization/Government Agency/U.S. Forest Service
+  - [Department of Agriculture](Section%203/Department%20of%20Agriculture.md)
+  - [Federal Communications Commission](Section%205/Federal%20Communications%20Commission.md)
+- Organization/Government Agency/U.S. Geological Survey
+  - [Department of the Interior](Section%203/Department%20of%20the%20Interior.md)
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Organization/Government Agency/U.S. International Development Finance Corporation
+  - [Agency for International Development](Section%202/Agency%20for%20International%20Development.md)
+- Organization/Government Agency/U.S. Marine Corps
+  - [Department of Defense](Section%202/Department%20of%20Defense.md)
+- Organization/Government Agency/U.S. Navy
+  - [Department of Defense](Section%202/Department%20of%20Defense.md)
+- Organization/Government Agency/U.S. Patent and Trademark Office
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Organization/Government Agency/U.S. Secret Service
+  - [Department of Homeland Security](Section%202/Department%20of%20Homeland%20Security.md)
+- Organization/Government Agency/U.S. Space Force
+  - [Department of Defense](Section%202/Department%20of%20Defense.md)
+- Organization/Government Agency/U.S. Trade and Development Agency
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+  - [Department of the Treasury](Section%204/Department%20of%20the%20Treasury.md)
+- Organization/Government Agency/U.S. and Foreign Commercial Service
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Organization/Government Agency/U.S.–China Economic and Security Review Commission
+  - [Trade](Section%204/Trade.md)
+- Organization/Government Agency/United States Information Agency
+  - [Onward!](Afterword/Onward!.md)
+- Organization/Government Agency/United States Mint
+  - [Department of the Treasury](Section%204/Department%20of%20the%20Treasury.md)
+- Organization/Government Agency/United States Special Operation Command
+  - [Department of Defense](Section%202/Department%20of%20Defense.md)
+- Organization/Government Agency/Veterans Benefits Administration
+  - [Department of Veterans Affairs](Section%203/Department%20of%20Veterans%20Affairs.md)
+- Organization/Government Agency/Veterans Health Administration
+  - [Department of Veterans Affairs](Section%203/Department%20of%20Veterans%20Affairs.md)
+- Organization/Government Agency/Voice of America
+  - [Media Agencies](Section%202/Media%20Agencies.md)
+- Organization/Government Agency/White House
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Organization/Government Agency/White House Office
+  - [Taking the Reins of Government](Section%201/Taking%20the%20Reins%20of%20Government.md)
+  - [White House Office](Section%201/White%20House%20Office.md)
+- Organization/Government Agency/White House Office of Trade and Manufacturing Policy
+  - [Trade](Section%204/Trade.md)
+- Organization/Intergovernmental Organization/European Union
+  - [Department of State](Section%202/Department%20of%20State.md)
+  - [Department of the Treasury](Section%204/Department%20of%20the%20Treasury.md)
+  - [The Economy](Section%204/The%20Economy.md)
+  - [Trade](Section%204/Trade.md)
+- Organization/Intergovernmental Organization/G7
+  - [Export-Import Bank](Section%204/Export-Import%20Bank.md)
+- Organization/Intergovernmental Organization/Global Free Trade Alliance
+  - [Trade](Section%204/Trade.md)
+- Organization/Intergovernmental Organization/International Monetary Fund
+  - [Department of the Treasury](Section%204/Department%20of%20the%20Treasury.md)
+  - [Export-Import Bank](Section%204/Export-Import%20Bank.md)
+- Organization/Intergovernmental Organization/International Telecommunication Union
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Organization/Intergovernmental Organization/NATO
+  - [Department of Defense](Section%202/Department%20of%20Defense.md)
+  - [Department of State](Section%202/Department%20of%20State.md)
+  - [Department of Energy and Related Commissions](Section%203/Department%20of%20Energy%20and%20Related%20Commissions.md)
+- Organization/Intergovernmental Organization/Organisation for Economic Co-operation and Development
+  - [Export-Import Bank](Section%204/Export-Import%20Bank.md)
+- Organization/Intergovernmental Organization/Organization for Economic Co-operation and Development
+  - [Department of the Treasury](Section%204/Department%20of%20the%20Treasury.md)
+- Organization/Intergovernmental Organization/United Nations
+  - [Agency for International Development](Section%202/Agency%20for%20International%20Development.md)
+  - [Department of State](Section%202/Department%20of%20State.md)
+  - [Department of Agriculture](Section%203/Department%20of%20Agriculture.md)
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Organization/Intergovernmental Organization/United Nations Population Fund
+  - [Agency for International Development](Section%202/Agency%20for%20International%20Development.md)
+- Organization/Intergovernmental Organization/World Bank
+  - [Agency for International Development](Section%202/Agency%20for%20International%20Development.md)
+  - [Department of the Treasury](Section%204/Department%20of%20the%20Treasury.md)
+  - [Export-Import Bank](Section%204/Export-Import%20Bank.md)
+  - [Trade](Section%204/Trade.md)
+- Organization/Intergovernmental Organization/World Intellectual Property Organization
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Organization/Intergovernmental Organization/World Trade Organization
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+  - [The Economy](Section%204/The%20Economy.md)
+  - [Trade](Section%204/Trade.md)
+- Organization/Political/Antifa
+  - [Department of Justice](Section%203/Department%20of%20Justice.md)
+- Organization/Political/Chinese Communist Party
+  - [Trade](Section%204/Trade.md)
+- Organization/Political/Mara Salvatrucha (MS-13)q
+  - [Department of Justice](Section%203/Department%20of%20Justice.md)
+- Organization/Research/American Federation of Teachers
+  - [Department of Education](Section%203/Department%20of%20Education.md)
+- Organization/Research/Baldridge Award Foundation
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Organization/Research/Competitive Enterprise Institute
+  - [The Economy](Section%204/The%20Economy.md)
+  - [Trade](Section%204/Trade.md)
+- Organization/Research/Confucius Institutes
+  - [Trade](Section%204/Trade.md)
+- Organization/Research/MSI Reproductive Choices
+  - [Agency for International Development](Section%202/Agency%20for%20International%20Development.md)
+- Organization/Research/National Education Association
+  - [Department of Education](Section%203/Department%20of%20Education.md)
+- Organization/Research/Planned Parenthood
+  - [Department of Health and Human Services](Section%203/Department%20of%20Health%20and%20Human%20Services.md)
+  - [Small Business Administration](Section%204/Small%20Business%20Administration.md)
+- Organization/Research/Planned Parenthood International
+  - [Agency for International Development](Section%202/Agency%20for%20International%20Development.md)
+- Organization/Research/The Heritage Foundation
+  - [Onward!](Afterword/Onward!.md)
+  - [A Promise to America](Foreword/A%20Promise%20to%20America.md)
+  - [Trade](Section%204/Trade.md)
+- Organization/Research/UC Berkeley
+  - [The Economy](Section%204/The%20Economy.md)
+- Organization/Research/Wuhan Institute of Virology
+  - [Trade](Section%204/Trade.md)
+- Person/Author/Adam Candeub
+  - [Independent Regulatory Agencies](Section%205/Independent%20Regulatory%20Agencies.md)
+- Person/Author/Benjamin S. Carson, Sr., MD
+  - [The Common Defense](Section%202/The%20Common%20Defense.md)
+  - [Department of Housing and Urban Development](Section%203/Department%20of%20Housing%20and%20Urban%20Development.md)
+  - [The General Welfare](Section%203/The%20General%20Welfare.md)
+- Person/Author/Bernard L. McNamee
+  - [The Common Defense](Section%202/The%20Common%20Defense.md)
+  - [Department of Energy and Related Commissions](Section%203/Department%20of%20Energy%20and%20Related%20Commissions.md)
+  - [The General Welfare](Section%203/The%20General%20Welfare.md)
+- Person/Author/Bradley Smith
+  - [Federal Election Commission](Section%205/Federal%20Election%20Commission.md)
+- Person/Author/Brendan Carr
+  - [Independent Regulatory Agencies](Section%205/Independent%20Regulatory%20Agencies.md)
+- Person/Author/Brooks D. Tucker
+  - [Department of Veterans Affairs](Section%203/Department%20of%20Veterans%20Affairs.md)
+- Person/Author/Christopher Miller
+  - [Department of Defense](Section%202/Department%20of%20Defense.md)
+  - [The Common Defense](Section%202/The%20Common%20Defense.md)
+- Person/Author/Daren Bakst
+  - [The Common Defense](Section%202/The%20Common%20Defense.md)
+  - [Department of Agriculture](Section%203/Department%20of%20Agriculture.md)
+  - [The General Welfare](Section%203/The%20General%20Welfare.md)
+- Person/Author/David R. Burton
+  - [Department of the Treasury](Section%204/Department%20of%20the%20Treasury.md)
+  - [The Economy](Section%204/The%20Economy.md)
+  - [Independent Regulatory Agencies](Section%205/Independent%20Regulatory%20Agencies.md)
+- Person/Author/Dennis Dean Kirk
+  - [Central Personnel Agencies - Managing the Bureaucracy](Section%201/Central%20Personnel%20Agencies%20-%20Managing%20the%20Bureaucracy.md)
+  - [Taking the Reins of Government](Section%201/Taking%20the%20Reins%20of%20Government.md)
+- Person/Author/Diana Furchtgott-Roth
+  - [The Common Defense](Section%202/The%20Common%20Defense.md)
+  - [Department of Transportation](Section%203/Department%20of%20Transportation.md)
+  - [The General Welfare](Section%203/The%20General%20Welfare.md)
+- Person/Author/Donald Devine
+  - [Central Personnel Agencies - Managing the Bureaucracy](Section%201/Central%20Personnel%20Agencies%20-%20Managing%20the%20Bureaucracy.md)
+  - [Taking the Reins of Government](Section%201/Taking%20the%20Reins%20of%20Government.md)
+- Person/Author/Dustin Carmack
+  - [The Common Defense](Section%202/The%20Common%20Defense.md)
+- Person/Author/Dustin J. Carmack
+  - [Intelligence Community](Section%202/Intelligence%20Community.md)
+- Person/Author/Edwin J. Feulner
+  - [Onward!](Afterword/Onward!.md)
+- Person/Author/Frank Easterbrook
+  - [Federal Trade Commission](Section%205/Federal%20Trade%20Commission.md)
+- Person/Author/Fred Hochberg
+  - [Export-Import Bank](Section%204/Export-Import%20Bank.md)
+- Person/Author/Gene Hamilton
+  - [The Common Defense](Section%202/The%20Common%20Defense.md)
+  - [Department of Justice](Section%203/Department%20of%20Justice.md)
+  - [The General Welfare](Section%203/The%20General%20Welfare.md)
+- Person/Author/Hans von Spakovsky
+  - [Federal Election Commission](Section%205/Federal%20Election%20Commission.md)
+  - [Independent Regulatory Agencies](Section%205/Independent%20Regulatory%20Agencies.md)
+- Person/Author/Jeffrey A. Singer
+  - [Federal Trade Commission](Section%205/Federal%20Trade%20Commission.md)
+- Person/Author/Jennifer Hazelton
+  - [Export-Import Bank](Section%204/Export-Import%20Bank.md)
+  - [The Economy](Section%204/The%20Economy.md)
+- Person/Author/Jonathan Berry
+  - [The Common Defense](Section%202/The%20Common%20Defense.md)
+  - [Department of Labor and Related Agencies](Section%203/Department%20of%20Labor%20and%20Related%20Agencies.md)
+  - [The General Welfare](Section%203/The%20General%20Welfare.md)
+- Person/Author/Karen Kerrigan
+  - [Small Business Administration](Section%204/Small%20Business%20Administration.md)
+  - [The Economy](Section%204/The%20Economy.md)
+- Person/Author/Ken Cuccinelli
+  - [Department of Homeland Security](Section%202/Department%20of%20Homeland%20Security.md)
+  - [The Common Defense](Section%202/The%20Common%20Defense.md)
+- Person/Author/Kent Lassman
+  - [The Economy](Section%204/The%20Economy.md)
+  - [Trade](Section%204/Trade.md)
+- Person/Author/Kevin D. Roberts, PhD
+  - [A Promise to America](Foreword/A%20Promise%20to%20America.md)
+- Person/Author/Kiron K. Skinner
+  - [Department of State](Section%202/Department%20of%20State.md)
+  - [The Common Defense](Section%202/The%20Common%20Defense.md)
+- Person/Author/Lindsey Burke
+  - [The Common Defense](Section%202/The%20Common%20Defense.md)
+  - [The General Welfare](Section%203/The%20General%20Welfare.md)
+- Person/Author/Lindsey M. Burke
+  - [Department of Education](Section%203/Department%20of%20Education.md)
+- Person/Author/Mandy Gunasekara
+  - [The Common Defense](Section%202/The%20Common%20Defense.md)
+  - [The General Welfare](Section%203/The%20General%20Welfare.md)
+- Person/Author/Mandy M. Gunasekara
+  - [Environmental Protection Agency](Section%203/Environmental%20Protection%20Agency.md)
+- Person/Author/Max Primora
+  - [Agency for International Development](Section%202/Agency%20for%20International%20Development.md)
+- Person/Author/Max Primorac
+  - [The Common Defense](Section%202/The%20Common%20Defense.md)
+- Person/Author/Mike Gonzalez
+  - [Media Agencies](Section%202/Media%20Agencies.md)
+- Person/Author/Milton Friedman
+  - [Department of Education](Section%203/Department%20of%20Education.md)
+  - [Federal Reserve](Section%204/Federal%20Reserve.md)
+  - [Federal Trade Commission](Section%205/Federal%20Trade%20Commission.md)
+- Person/Author/Mora Namdar
+  - [Media Agencies](Section%202/Media%20Agencies.md)
+  - [The Common Defense](Section%202/The%20Common%20Defense.md)
+- Person/Author/Paul Dans
+  - [Central Personnel Agencies - Managing the Bureaucracy](Section%201/Central%20Personnel%20Agencies%20-%20Managing%20the%20Bureaucracy.md)
+  - [Taking the Reins of Government](Section%201/Taking%20the%20Reins%20of%20Government.md)
+- Person/Author/Paul Winfree
+  - [Federal Reserve](Section%204/Federal%20Reserve.md)
+  - [The Economy](Section%204/The%20Economy.md)
+- Person/Author/Peter Navarro
+  - [The Economy](Section%204/The%20Economy.md)
+  - [Trade](Section%204/Trade.md)
+- Person/Author/Rick Dearborn
+  - [Taking the Reins of Government](Section%201/Taking%20the%20Reins%20of%20Government.md)
+  - [White House Office](Section%201/White%20House%20Office.md)
+- Person/Author/Robert Bork
+  - [Federal Trade Commission](Section%205/Federal%20Trade%20Commission.md)
+- Person/Author/Roger Severino
+  - [The Common Defense](Section%202/The%20Common%20Defense.md)
+  - [Department of Health and Human Services](Section%203/Department%20of%20Health%20and%20Human%20Services.md)
+  - [The General Welfare](Section%203/The%20General%20Welfare.md)
+- Person/Author/Russ Vought
+  - [Executive Office of The President of the United States](Section%201/Executive%20Office%20of%20The%20President%20of%20the%20United%20States.md)
+  - [Taking the Reins of Government](Section%201/Taking%20the%20Reins%20of%20Government.md)
+  - [The Common Defense](Section%202/The%20Common%20Defense.md)
+- Person/Author/Stephen Moore
+  - [Department of the Treasury](Section%204/Department%20of%20the%20Treasury.md)
+  - [The Economy](Section%204/The%20Economy.md)
+- Person/Author/Thomas F. Gilman
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+  - [The Economy](Section%204/The%20Economy.md)
+- Person/Author/Tyler Goodspeed
+  - [Trade](Section%204/Trade.md)
+- Person/Author/Veronique de Rugy
+  - [Export-Import Bank](Section%204/Export-Import%20Bank.md)
+  - [The Economy](Section%204/The%20Economy.md)
+- Person/Author/Warren Buffett
+  - [The Economy](Section%204/The%20Economy.md)
+  - [Trade](Section%204/Trade.md)
+- Person/Author/William L. Walton
+  - [Department of the Treasury](Section%204/Department%20of%20the%20Treasury.md)
+  - [The Economy](Section%204/The%20Economy.md)
+- Person/Author/William Perry Pendley
+  - [Department of the Interior](Section%203/Department%20of%20the%20Interior.md)
+- Person/Political Figure/Abraham Lincoln
+  - [Taking the Reins of Government](Section%201/Taking%20the%20Reins%20of%20Government.md)
+  - [Intelligence Community](Section%202/Intelligence%20Community.md)
+  - [Department of Agriculture](Section%203/Department%20of%20Agriculture.md)
+- Person/Political Figure/Alejandro Mayorkas
+  - [Department of Homeland Security](Section%202/Department%20of%20Homeland%20Security.md)
+- Person/Political Figure/Alexander Mooney
+  - [Federal Reserve](Section%204/Federal%20Reserve.md)
+- Person/Political Figure/Amanda Bennett
+  - [Media Agencies](Section%202/Media%20Agencies.md)
+- Person/Political Figure/Anthony Fauci
+  - [The Common Defense](Section%202/The%20Common%20Defense.md)
+  - [Department of Health and Human Services](Section%203/Department%20of%20Health%20and%20Human%20Services.md)
+  - [The General Welfare](Section%203/The%20General%20Welfare.md)
+- Person/Political Figure/Antonin Scalia
+  - [Media Agencies](Section%202/Media%20Agencies.md)
+- Person/Political Figure/Avril Haines
+  - [Intelligence Community](Section%202/Intelligence%20Community.md)
+- Person/Political Figure/Ayatollah Khomeini
+  - [Department of State](Section%202/Department%20of%20State.md)
+- Person/Political Figure/Barack Obama
+  - [Onward!](Afterword/Onward!.md)
+  - [Central Personnel Agencies - Managing the Bureaucracy](Section%201/Central%20Personnel%20Agencies%20-%20Managing%20the%20Bureaucracy.md)
+  - [Intelligence Community](Section%202/Intelligence%20Community.md)
+  - [The Common Defense](Section%202/The%20Common%20Defense.md)
+  - [Department of the Interior](Section%203/Department%20of%20the%20Interior.md)
+  - [Environmental Protection Agency](Section%203/Environmental%20Protection%20Agency.md)
+  - [Small Business Administration](Section%204/Small%20Business%20Administration.md)
+  - [Trade](Section%204/Trade.md)
+  - [Federal Trade Commission](Section%205/Federal%20Trade%20Commission.md)
+- Person/Political Figure/Bernie Sanders
+  - [Department of Agriculture](Section%203/Department%20of%20Agriculture.md)
+- Person/Political Figure/Betsy DeVos
+  - [Department of Education](Section%203/Department%20of%20Education.md)
+- Person/Political Figure/Bill Clinton
+  - [Department of the Interior](Section%203/Department%20of%20the%20Interior.md)
+- Person/Political Figure/Bill Middendorf
+  - [Onward!](Afterword/Onward!.md)
+- Person/Political Figure/Bill Simon
+  - [Onward!](Afterword/Onward!.md)
+- Person/Political Figure/Clarence Thomas
+  - [Federal Communications Commission](Section%205/Federal%20Communications%20Commission.md)
+- Person/Political Figure/Dan Quayle
+  - [Executive Office of The President of the United States](Section%201/Executive%20Office%20of%20The%20President%20of%20the%20United%20States.md)
+- Person/Political Figure/David Stockman
+  - [Export-Import Bank](Section%204/Export-Import%20Bank.md)
+- Person/Political Figure/Donald Trump
+  - [Onward!](Afterword/Onward!.md)
+  - [Central Personnel Agencies - Managing the Bureaucracy](Section%201/Central%20Personnel%20Agencies%20-%20Managing%20the%20Bureaucracy.md)
+  - [Intelligence Community](Section%202/Intelligence%20Community.md)
+  - [Department of Health and Human Services](Section%203/Department%20of%20Health%20and%20Human%20Services.md)
+  - [Department of the Interior](Section%203/Department%20of%20the%20Interior.md)
+  - [Environmental Protection Agency](Section%203/Environmental%20Protection%20Agency.md)
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+  - [Export-Import Bank](Section%204/Export-Import%20Bank.md)
+  - [Small Business Administration](Section%204/Small%20Business%20Administration.md)
+  - [Trade](Section%204/Trade.md)
+- Person/Political Figure/Dwight Eisenhower
+  - [White House Office](Section%201/White%20House%20Office.md)
+- Person/Political Figure/Edmund Randolph
+  - [The General Welfare](Section%203/The%20General%20Welfare.md)
+- Person/Political Figure/Elise Stefanik
+  - [Federal Communications Commission](Section%205/Federal%20Communications%20Commission.md)
+- Person/Political Figure/Ellen Weintraub
+  - [Federal Election Commission](Section%205/Federal%20Election%20Commission.md)
+- Person/Political Figure/Eric Shinseki
+  - [Department of Veterans Affairs](Section%203/Department%20of%20Veterans%20Affairs.md)
+- Person/Political Figure/Frank Shakespeare
+  - [Onward!](Afterword/Onward!.md)
+- Person/Political Figure/Franklin D. Roosevelt
+  - [Federal Communications Commission](Section%205/Federal%20Communications%20Commission.md)
+- Person/Political Figure/Franklin Roosevelt
+  - [Central Personnel Agencies - Managing the Bureaucracy](Section%201/Central%20Personnel%20Agencies%20-%20Managing%20the%20Bureaucracy.md)
+  - [Export-Import Bank](Section%204/Export-Import%20Bank.md)
+- Person/Political Figure/George H. W. Bush
+  - [Department of the Interior](Section%203/Department%20of%20the%20Interior.md)
+- Person/Political Figure/George W. Bush
+  - [Intelligence Community](Section%202/Intelligence%20Community.md)
+  - [The Common Defense](Section%202/The%20Common%20Defense.md)
+  - [Department of the Interior](Section%203/Department%20of%20the%20Interior.md)
+  - [Small Business Administration](Section%204/Small%20Business%20Administration.md)
+  - [Federal Election Commission](Section%205/Federal%20Election%20Commission.md)
+- Person/Political Figure/George Washington
+  - [White House Office](Section%201/White%20House%20Office.md)
+  - [The Common Defense](Section%202/The%20Common%20Defense.md)
+  - [The General Welfare](Section%203/The%20General%20Welfare.md)
+- Person/Political Figure/Harry Reid
+  - [Federal Election Commission](Section%205/Federal%20Election%20Commission.md)
+- Person/Political Figure/Harry Truman
+  - [Intelligence Community](Section%202/Intelligence%20Community.md)
+- Person/Political Figure/Hector Barreto
+  - [Small Business Administration](Section%204/Small%20Business%20Administration.md)
+- Person/Political Figure/Henry Knox
+  - [The Common Defense](Section%202/The%20Common%20Defense.md)
+- Person/Political Figure/Hugo Chavez
+  - [Department of State](Section%202/Department%20of%20State.md)
+- Person/Political Figure/Hunter Biden
+  - [Intelligence Community](Section%202/Intelligence%20Community.md)
+  - [Department of Justice](Section%203/Department%20of%20Justice.md)
+- Person/Political Figure/Jack Eckerd
+  - [Onward!](Afterword/Onward!.md)
+- Person/Political Figure/James Clapper
+  - [Intelligence Community](Section%202/Intelligence%20Community.md)
+- Person/Political Figure/James Madison
+  - [Taking the Reins of Government](Section%201/Taking%20the%20Reins%20of%20Government.md)
+- Person/Political Figure/James Mattis
+  - [Trade](Section%204/Trade.md)
+- Person/Political Figure/Janet Yellen
+  - [Department of the Treasury](Section%204/Department%20of%20the%20Treasury.md)
+  - [The Economy](Section%204/The%20Economy.md)
+- Person/Political Figure/Jeff Sessions
+  - [Department of Justice](Section%203/Department%20of%20Justice.md)
+- Person/Political Figure/Jerome Powell
+  - [Federal Reserve](Section%204/Federal%20Reserve.md)
+- Person/Political Figure/Jimmy Carter
+  - [Onward!](Afterword/Onward!.md)
+  - [A Promise to America](Foreword/A%20Promise%20to%20America.md)
+  - [Central Personnel Agencies - Managing the Bureaucracy](Section%201/Central%20Personnel%20Agencies%20-%20Managing%20the%20Bureaucracy.md)
+  - [The Common Defense](Section%202/The%20Common%20Defense.md)
+  - [Department of Education](Section%203/Department%20of%20Education.md)
+  - [Department of the Interior](Section%203/Department%20of%20the%20Interior.md)
+  - [The General Welfare](Section%203/The%20General%20Welfare.md)
+- Person/Political Figure/Joe Biden
+  - [Onward!](Afterword/Onward!.md)
+  - [Central Personnel Agencies - Managing the Bureaucracy](Section%201/Central%20Personnel%20Agencies%20-%20Managing%20the%20Bureaucracy.md)
+  - [Department of State](Section%202/Department%20of%20State.md)
+  - [Department of Health and Human Services](Section%203/Department%20of%20Health%20and%20Human%20Services.md)
+  - [Department of the Interior](Section%203/Department%20of%20the%20Interior.md)
+  - [Environmental Protection Agency](Section%203/Environmental%20Protection%20Agency.md)
+  - [The General Welfare](Section%203/The%20General%20Welfare.md)
+  - [Export-Import Bank](Section%204/Export-Import%20Bank.md)
+  - [Small Business Administration](Section%204/Small%20Business%20Administration.md)
+- Person/Political Figure/John Brennan
+  - [Intelligence Community](Section%202/Intelligence%20Community.md)
+- Person/Political Figure/John F. Kennedy
+  - [Central Personnel Agencies - Managing the Bureaucracy](Section%201/Central%20Personnel%20Agencies%20-%20Managing%20the%20Bureaucracy.md)
+  - [Agency for International Development](Section%202/Agency%20for%20International%20Development.md)
+- Person/Political Figure/John Ratcliffe
+  - [Intelligence Community](Section%202/Intelligence%20Community.md)
+- Person/Political Figure/John Sherman
+  - [Federal Trade Commission](Section%205/Federal%20Trade%20Commission.md)
+- Person/Political Figure/Josh Hawley
+  - [Federal Trade Commission](Section%205/Federal%20Trade%20Commission.md)
+- Person/Political Figure/Kamala Harris
+  - [Executive Office of The President of the United States](Section%201/Executive%20Office%20of%20The%20President%20of%20the%20United%20States.md)
+- Person/Political Figure/Kevin Brady
+  - [Trade](Section%204/Trade.md)
+- Person/Political Figure/Kevin Roberts
+  - [Onward!](Afterword/Onward!.md)
+- Person/Political Figure/Lina Khan
+  - [Federal Trade Commission](Section%205/Federal%20Trade%20Commission.md)
+- Person/Political Figure/Liu He
+  - [Trade](Section%204/Trade.md)
+- Person/Political Figure/Lyndon B. Johnson
+  - [Media Agencies](Section%202/Media%20Agencies.md)
+  - [The Common Defense](Section%202/The%20Common%20Defense.md)
+  - [Department of Education](Section%203/Department%20of%20Education.md)
+  - [The General Welfare](Section%203/The%20General%20Welfare.md)
+- Person/Political Figure/Mao Zedong
+  - [Trade](Section%204/Trade.md)
+- Person/Political Figure/Martin Luther King, Jr.
+  - [The Common Defense](Section%202/The%20Common%20Defense.md)
+  - [The General Welfare](Section%203/The%20General%20Welfare.md)
+- Person/Political Figure/Merrick Garland
+  - [The Common Defense](Section%202/The%20Common%20Defense.md)
+  - [Department of Justice](Section%203/Department%20of%20Justice.md)
+  - [The General Welfare](Section%203/The%20General%20Welfare.md)
+- Person/Political Figure/Michael Pack
+  - [Media Agencies](Section%202/Media%20Agencies.md)
+- Person/Political Figure/Mike Gallagher
+  - [Federal Communications Commission](Section%205/Federal%20Communications%20Commission.md)
+- Person/Political Figure/Mike Lee
+  - [Agency for International Development](Section%202/Agency%20for%20International%20Development.md)
+- Person/Political Figure/Mike Pence
+  - [Executive Office of The President of the United States](Section%201/Executive%20Office%20of%20The%20President%20of%20the%20United%20States.md)
+- Person/Political Figure/Newt Gingrich
+  - [Federal Trade Commission](Section%205/Federal%20Trade%20Commission.md)
+- Person/Political Figure/Nicolas Maduro
+  - [Department of State](Section%202/Department%20of%20State.md)
+- Person/Political Figure/Paul Dans
+  - [Onward!](Afterword/Onward!.md)
+- Person/Political Figure/Paul Ryan
+  - [Trade](Section%204/Trade.md)
+- Person/Political Figure/Richard Cheney
+  - [Executive Office of The President of the United States](Section%201/Executive%20Office%20of%20The%20President%20of%20the%20United%20States.md)
+- Person/Political Figure/Richard Nixon
+  - [White House Office](Section%201/White%20House%20Office.md)
+  - [Media Agencies](Section%202/Media%20Agencies.md)
+  - [Environmental Protection Agency](Section%203/Environmental%20Protection%20Agency.md)
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+  - [Small Business Administration](Section%204/Small%20Business%20Administration.md)
+- Person/Political Figure/Ro Khanna
+  - [Federal Communications Commission](Section%205/Federal%20Communications%20Commission.md)
+- Person/Political Figure/Robert Byrd
+  - [Federal Trade Commission](Section%205/Federal%20Trade%20Commission.md)
+- Person/Political Figure/Robert E. Lighthizer
+  - [Trade](Section%204/Trade.md)
+- Person/Political Figure/Robert Gates
+  - [Intelligence Community](Section%202/Intelligence%20Community.md)
+- Person/Political Figure/Robert O'Brien
+  - [Trade](Section%204/Trade.md)
+- Person/Political Figure/Robert Wilkie
+  - [Department of Veterans Affairs](Section%203/Department%20of%20Veterans%20Affairs.md)
+- Person/Political Figure/Ronald Reagan
+  - [Onward!](Afterword/Onward!.md)
+  - [A Promise to America](Foreword/A%20Promise%20to%20America.md)
+  - [Central Personnel Agencies - Managing the Bureaucracy](Section%201/Central%20Personnel%20Agencies%20-%20Managing%20the%20Bureaucracy.md)
+  - [White House Office](Section%201/White%20House%20Office.md)
+  - [Agency for International Development](Section%202/Agency%20for%20International%20Development.md)
+  - [Department of the Interior](Section%203/Department%20of%20the%20Interior.md)
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+  - [Export-Import Bank](Section%204/Export-Import%20Bank.md)
+  - [Small Business Administration](Section%204/Small%20Business%20Administration.md)
+- Person/Political Figure/Sean Duffy
+  - [Trade](Section%204/Trade.md)
+- Person/Political Figure/Thomas Jefferson
+  - [Department of State](Section%202/Department%20of%20State.md)
+  - [Media Agencies](Section%202/Media%20Agencies.md)
+  - [The Common Defense](Section%202/The%20Common%20Defense.md)
+- Person/Political Figure/Tom Cotton
+  - [Federal Trade Commission](Section%205/Federal%20Trade%20Commission.md)
+- Person/Political Figure/Virginia Foxx
+  - [Agency for International Development](Section%202/Agency%20for%20International%20Development.md)
+- Person/Political Figure/Vladimir Putin
+  - [Department of State](Section%202/Department%20of%20State.md)
+- Person/Political Figure/Wilbur Ross
+  - [Trade](Section%204/Trade.md)
+- Person/Political Figure/William Howard Taft
+  - [Federal Trade Commission](Section%205/Federal%20Trade%20Commission.md)
+- Person/Political Figure/Xi Jinping
+  - [Trade](Section%204/Trade.md)
+- Person/Role/Attorney General
+  - [Federal Election Commission](Section%205/Federal%20Election%20Commission.md)
+- Person/Role/CFPB Director
+  - [Financial Regulatory Agencies](Section%205/Financial%20Regulatory%20Agencies.md)
+- Person/Role/FCC Chairperson
+  - [Federal Communications Commission](Section%205/Federal%20Communications%20Commission.md)
+  - [Independent Regulatory Agencies](Section%205/Independent%20Regulatory%20Agencies.md)
+- Person/Role/FCC Commissioner
+  - [Federal Communications Commission](Section%205/Federal%20Communications%20Commission.md)
+- Person/Role/FEC Commissioner
+  - [Federal Election Commission](Section%205/Federal%20Election%20Commission.md)
+- Person/Role/Federal Election Commissioner
+  - [Independent Regulatory Agencies](Section%205/Independent%20Regulatory%20Agencies.md)
+- Person/Role/Inspector General
+  - [Small Business Administration](Section%204/Small%20Business%20Administration.md)
+- Person/Role/National Security Advisor
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Person/Role/President of the United States
+  - [Federal Communications Commission](Section%205/Federal%20Communications%20Commission.md)
+  - [Federal Election Commission](Section%205/Federal%20Election%20Commission.md)
+  - [Independent Regulatory Agencies](Section%205/Independent%20Regulatory%20Agencies.md)
+- Person/Role/State Attorney General
+  - [Independent Regulatory Agencies](Section%205/Independent%20Regulatory%20Agencies.md)
+- Policy & Law/Government Program/Affirmatively Furthering Fair Housing
+  - [Department of Housing and Urban Development](Section%203/Department%20of%20Housing%20and%20Urban%20Development.md)
+- Policy & Law/Government Program/Agriculture Risk Coverage program
+  - [Department of Agriculture](Section%203/Department%20of%20Agriculture.md)
+- Policy & Law/Government Program/America the Beautiful Initiative
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Policy & Law/Government Program/American Communities Survey
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Policy & Law/Government Program/Baldridge Performance Excellence Program
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Policy & Law/Government Program/Belt and Road Initiative
+  - [Agency for International Development](Section%202/Agency%20for%20International%20Development.md)
+  - [Department of Defense](Section%202/Department%20of%20Defense.md)
+  - [Export-Import Bank](Section%204/Export-Import%20Bank.md)
+- Policy & Law/Government Program/China and Transformation Exports Program
+  - [Export-Import Bank](Section%204/Export-Import%20Bank.md)
+- Policy & Law/Government Program/Clean Networks Program
+  - [Federal Communications Commission](Section%205/Federal%20Communications%20Commission.md)
+- Policy & Law/Government Program/Community Development Block Grant Program
+  - [Department of Housing and Urban Development](Section%203/Department%20of%20Housing%20and%20Urban%20Development.md)
+- Policy & Law/Government Program/Community Eligibility Provision
+  - [Department of Agriculture](Section%203/Department%20of%20Agriculture.md)
+- Policy & Law/Government Program/Conservation Reserve Program
+  - [Department of Agriculture](Section%203/Department%20of%20Agriculture.md)
+- Policy & Law/Government Program/Consolidated Audit Trail
+  - [Financial Regulatory Agencies](Section%205/Financial%20Regulatory%20Agencies.md)
+- Policy & Law/Government Program/D.C. Opportunity Scholarship Program
+  - [Department of Education](Section%203/Department%20of%20Education.md)
+- Policy & Law/Government Program/Dietary Guidelines for Americans
+  - [Department of Agriculture](Section%203/Department%20of%20Agriculture.md)
+- Policy & Law/Government Program/Economic Census
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Policy & Law/Government Program/Economic Injury Disaster Loan
+  - [Small Business Administration](Section%204/Small%20Business%20Administration.md)
+- Policy & Law/Government Program/Education Savings Account
+  - [Department of Education](Section%203/Department%20of%20Education.md)
+- Policy & Law/Government Program/FirstNet
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Policy & Law/Government Program/Force Design 2030
+  - [Department of Defense](Section%202/Department%20of%20Defense.md)
+- Policy & Law/Government Program/Health Savings Accounts
+  - [Department of the Treasury](Section%204/Department%20of%20the%20Treasury.md)
+- Policy & Law/Government Program/Healthy Marriage and Relationship Education Program
+  - [Department of Health and Human Services](Section%203/Department%20of%20Health%20and%20Human%20Services.md)
+- Policy & Law/Government Program/Healthy Marriage and Responsible Fatherhood Program
+  - [Department of Health and Human Services](Section%203/Department%20of%20Health%20and%20Human%20Services.md)
+- Policy & Law/Government Program/Hollings Manufacturing Extension Partnership
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Policy & Law/Government Program/Home Investment Partnerships Program
+  - [Department of Housing and Urban Development](Section%203/Department%20of%20Housing%20and%20Urban%20Development.md)
+- Policy & Law/Government Program/Impact Aid
+  - [Department of Education](Section%203/Department%20of%20Education.md)
+- Policy & Law/Government Program/Indo-Pacific Economic Framework for Prosperity
+  - [Trade](Section%204/Trade.md)
+- Policy & Law/Government Program/Low-Income Housing Tax Credit
+  - [Department of Housing and Urban Development](Section%203/Department%20of%20Housing%20and%20Urban%20Development.md)
+- Policy & Law/Government Program/Market Access Program
+  - [Department of Agriculture](Section%203/Department%20of%20Agriculture.md)
+- Policy & Law/Government Program/Market Facilitation Program
+  - [Department of Agriculture](Section%203/Department%20of%20Agriculture.md)
+- Policy & Law/Government Program/National Assessment of Educational Progress
+  - [Department of Education](Section%203/Department%20of%20Education.md)
+- Policy & Law/Government Program/National School Lunch Program
+  - [Department of Agriculture](Section%203/Department%20of%20Agriculture.md)
+- Policy & Law/Government Program/Paycheck Protection Program
+  - [Federal Reserve](Section%204/Federal%20Reserve.md)
+  - [Small Business Administration](Section%204/Small%20Business%20Administration.md)
+- Policy & Law/Government Program/Pell Grants
+  - [Department of Education](Section%203/Department%20of%20Education.md)
+- Policy & Law/Government Program/Personal Responsibility Education Program
+  - [Department of Health and Human Services](Section%203/Department%20of%20Health%20and%20Human%20Services.md)
+- Policy & Law/Government Program/President's Malaria Initiative
+  - [Agency for International Development](Section%202/Agency%20for%20International%20Development.md)
+- Policy & Law/Government Program/President’s Emergency Plan for AIDS Relief
+  - [Agency for International Development](Section%202/Agency%20for%20International%20Development.md)
+- Policy & Law/Government Program/Price Loss Coverage program
+  - [Department of Agriculture](Section%203/Department%20of%20Agriculture.md)
+- Policy & Law/Government Program/Roth IRAs
+  - [Department of the Treasury](Section%204/Department%20of%20the%20Treasury.md)
+- Policy & Law/Government Program/School Breakfast Program
+  - [Department of Agriculture](Section%203/Department%20of%20Agriculture.md)
+- Policy & Law/Government Program/Secure and Trusted Communications Networks Reimbursement Program
+  - [Federal Communications Commission](Section%205/Federal%20Communications%20Commission.md)
+- Policy & Law/Government Program/Small Business Innovation Research
+  - [Small Business Administration](Section%204/Small%20Business%20Administration.md)
+- Policy & Law/Government Program/Small Business Technology Transfer
+  - [Small Business Administration](Section%204/Small%20Business%20Administration.md)
+- Policy & Law/Government Program/Special Supplemental Nutrition Program for Women, Infants, and Children
+  - [Department of Agriculture](Section%203/Department%20of%20Agriculture.md)
+- Policy & Law/Government Program/Supplemental Nutrition Assistance Program
+  - [Department of Agriculture](Section%203/Department%20of%20Agriculture.md)
+  - [Department of Health and Human Services](Section%203/Department%20of%20Health%20and%20Human%20Services.md)
+- Policy & Law/Government Program/Supplemental Poverty Measure
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Policy & Law/Government Program/Teen Pregnancy Prevention
+  - [Department of Health and Human Services](Section%203/Department%20of%20Health%20and%20Human%20Services.md)
+- Policy & Law/Government Program/Temporary Assistance for Needy Families
+  - [Department of Agriculture](Section%203/Department%20of%20Agriculture.md)
+  - [Department of Health and Human Services](Section%203/Department%20of%20Health%20and%20Human%20Services.md)
+- Policy & Law/Government Program/Universal Savings Accounts
+  - [Department of the Treasury](Section%204/Department%20of%20the%20Treasury.md)
+- Policy & Law/Government Program/Universal Service Fund
+  - [Federal Communications Commission](Section%205/Federal%20Communications%20Commission.md)
+- Policy & Law/Law/Administrative Procedure Act
+  - [Department of Housing and Urban Development](Section%203/Department%20of%20Housing%20and%20Urban%20Development.md)
+  - [Department of Labor and Related Agencies](Section%203/Department%20of%20Labor%20and%20Related%20Agencies.md)
+- Policy & Law/Law/Administrative Procedures Act
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Policy & Law/Law/Affordable Care Act
+  - [Department of Health and Human Services](Section%203/Department%20of%20Health%20and%20Human%20Services.md)
+- Policy & Law/Law/Agent Orange Act of 1991
+  - [Department of Veterans Affairs](Section%203/Department%20of%20Veterans%20Affairs.md)
+- Policy & Law/Law/Alaska National Interest Lands Conservation Act
+  - [Department of the Interior](Section%203/Department%20of%20the%20Interior.md)
+- Policy & Law/Law/Alaska Native Claims Settlement Act
+  - [Department of the Interior](Section%203/Department%20of%20the%20Interior.md)
+- Policy & Law/Law/America COMPETES Act
+  - [Department of Energy and Related Commissions](Section%203/Department%20of%20Energy%20and%20Related%20Commissions.md)
+- Policy & Law/Law/American Innovation and Manufacturing Act
+  - [Environmental Protection Agency](Section%203/Environmental%20Protection%20Agency.md)
+  - [Small Business Administration](Section%204/Small%20Business%20Administration.md)
+- Policy & Law/Law/American Rescue Plan
+  - [Department of Education](Section%203/Department%20of%20Education.md)
+- Policy & Law/Law/American Rescue Plan Act
+  - [Department of Labor and Related Agencies](Section%203/Department%20of%20Labor%20and%20Related%20Agencies.md)
+  - [Federal Communications Commission](Section%205/Federal%20Communications%20Commission.md)
+- Policy & Law/Law/Americans with Disabilities Act
+  - [Department of Health and Human Services](Section%203/Department%20of%20Health%20and%20Human%20Services.md)
+  - [Department of Labor and Related Agencies](Section%203/Department%20of%20Labor%20and%20Related%20Agencies.md)
+- Policy & Law/Law/Anti-Deficiency Act
+  - [Executive Office of The President of the United States](Section%201/Executive%20Office%20of%20The%20President%20of%20the%20United%20States.md)
+- Policy & Law/Law/Anti-Drug Abuse Act of 1988
+  - [Executive Office of The President of the United States](Section%201/Executive%20Office%20of%20The%20President%20of%20the%20United%20States.md)
+- Policy & Law/Law/Antiquities Act
+  - [Department of the Interior](Section%203/Department%20of%20the%20Interior.md)
+- Policy & Law/Law/Armed Career Criminal Act
+  - [Department of Justice](Section%203/Department%20of%20Justice.md)
+- Policy & Law/Law/Assimilative Crimes Act
+  - [Department of Health and Human Services](Section%203/Department%20of%20Health%20and%20Human%20Services.md)
+- Policy & Law/Law/Atomic Energy Act of 1954
+  - [Department of Energy and Related Commissions](Section%203/Department%20of%20Energy%20and%20Related%20Commissions.md)
+- Policy & Law/Law/Bipartisan Infrastructure Investment and Jobs Act
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Policy & Law/Law/Born-Alive Abortion Survivors Protection Act
+  - [Department of Health and Human Services](Section%203/Department%20of%20Health%20and%20Human%20Services.md)
+- Policy & Law/Law/Build America, Buy America Act
+  - [Department of Defense](Section%202/Department%20of%20Defense.md)
+- Policy & Law/Law/CARES Act
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+  - [Small Business Administration](Section%204/Small%20Business%20Administration.md)
+- Policy & Law/Law/CHIPS and Science Act
+  - [Executive Office of The President of the United States](Section%201/Executive%20Office%20of%20The%20President%20of%20the%20United%20States.md)
+- Policy & Law/Law/Carl D. Perkins Career and Technical Education Acts
+  - [Department of Education](Section%203/Department%20of%20Education.md)
+- Policy & Law/Law/Child Online Privacy Protection Act
+  - [Federal Trade Commission](Section%205/Federal%20Trade%20Commission.md)
+- Policy & Law/Law/Child Welfare Provider Inclusion Act
+  - [Department of Health and Human Services](Section%203/Department%20of%20Health%20and%20Human%20Services.md)
+- Policy & Law/Law/Civil Rights Act of 1964
+  - [Department of Education](Section%203/Department%20of%20Education.md)
+  - [Department of Housing and Urban Development](Section%203/Department%20of%20Housing%20and%20Urban%20Development.md)
+- Policy & Law/Law/Civil Service Reform Act of 1978
+  - [Central Personnel Agencies - Managing the Bureaucracy](Section%201/Central%20Personnel%20Agencies%20-%20Managing%20the%20Bureaucracy.md)
+- Policy & Law/Law/Clayton Antitrust Act of 1914
+  - [Federal Trade Commission](Section%205/Federal%20Trade%20Commission.md)
+- Policy & Law/Law/Clean Air Act
+  - [Department of Transportation](Section%203/Department%20of%20Transportation.md)
+  - [Environmental Protection Agency](Section%203/Environmental%20Protection%20Agency.md)
+- Policy & Law/Law/Coats–Snowe Amendment
+  - [Department of Health and Human Services](Section%203/Department%20of%20Health%20and%20Human%20Services.md)
+- Policy & Law/Law/Commodity Credit Corporation Charter Act
+  - [Department of Agriculture](Section%203/Department%20of%20Agriculture.md)
+- Policy & Law/Law/Commodity Exchange Act
+  - [Financial Regulatory Agencies](Section%205/Financial%20Regulatory%20Agencies.md)
+- Policy & Law/Law/Communications Act of 1934
+  - [Federal Communications Commission](Section%205/Federal%20Communications%20Commission.md)
+- Policy & Law/Law/Comprehensive Environmental Response, Compensation, and Liability Act
+  - [Environmental Protection Agency](Section%203/Environmental%20Protection%20Agency.md)
+- Policy & Law/Law/Comprehensive and Progressive Agreement for Trans-Pacific Partnership
+  - [Trade](Section%204/Trade.md)
+- Policy & Law/Law/Congressional Review Act
+  - [Executive Office of The President of the United States](Section%201/Executive%20Office%20of%20The%20President%20of%20the%20United%20States.md)
+- Policy & Law/Law/Consolidated Appropriations Act of 2020
+  - [Department of Homeland Security](Section%202/Department%20of%20Homeland%20Security.md)
+- Policy & Law/Law/Consolidated Reporting Act
+  - [Federal Communications Commission](Section%205/Federal%20Communications%20Commission.md)
+- Policy & Law/Law/Coronavirus Aid, Relief, and Economic Security Act
+  - [Department of Labor and Related Agencies](Section%203/Department%20of%20Labor%20and%20Related%20Agencies.md)
+- Policy & Law/Law/Corporate Transparency Act
+  - [Department of the Treasury](Section%204/Department%20of%20the%20Treasury.md)
+- Policy & Law/Law/Counterintelligence Enhancement Act of 2002
+  - [Intelligence Community](Section%202/Intelligence%20Community.md)
+- Policy & Law/Law/Davis–Bacon Act
+  - [Department of Labor and Related Agencies](Section%203/Department%20of%20Labor%20and%20Related%20Agencies.md)
+- Policy & Law/Law/Dodd-Frank Wall Street Reform and Consumer Protection Act
+  - [Department of the Treasury](Section%204/Department%20of%20the%20Treasury.md)
+  - [Financial Regulatory Agencies](Section%205/Financial%20Regulatory%20Agencies.md)
+- Policy & Law/Law/Early Participation in Regulations Act
+  - [Executive Office of The President of the United States](Section%201/Executive%20Office%20of%20The%20President%20of%20the%20United%20States.md)
+- Policy & Law/Law/Elementary and Secondary Education Act of 1965
+  - [Department of Education](Section%203/Department%20of%20Education.md)
+- Policy & Law/Law/Emergency Medical Treatment and Active Labor Act
+  - [Department of Health and Human Services](Section%203/Department%20of%20Health%20and%20Human%20Services.md)
+- Policy & Law/Law/Employee Retirement Income Security Act of 1974
+  - [Department of Health and Human Services](Section%203/Department%20of%20Health%20and%20Human%20Services.md)
+  - [Department of Labor and Related Agencies](Section%203/Department%20of%20Labor%20and%20Related%20Agencies.md)
+- Policy & Law/Law/Endangered Species Act
+  - [Department of Agriculture](Section%203/Department%20of%20Agriculture.md)
+  - [Department of the Interior](Section%203/Department%20of%20the%20Interior.md)
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Policy & Law/Law/Energy Policy Act of 2005
+  - [Department of Energy and Related Commissions](Section%203/Department%20of%20Energy%20and%20Related%20Commissions.md)
+- Policy & Law/Law/Energy Policy and Conservation Act of 1975
+  - [Department of Energy and Related Commissions](Section%203/Department%20of%20Energy%20and%20Related%20Commissions.md)
+  - [Department of Transportation](Section%203/Department%20of%20Transportation.md)
+- Policy & Law/Law/Energy Reorganization Act of 1974
+  - [Department of Energy and Related Commissions](Section%203/Department%20of%20Energy%20and%20Related%20Commissions.md)
+- Policy & Law/Law/Equal Protection Clause
+  - [Department of Justice](Section%203/Department%20of%20Justice.md)
+- Policy & Law/Law/Every Student Succeeds Act
+  - [Department of Education](Section%203/Department%20of%20Education.md)
+- Policy & Law/Law/Executive Order/12333
+  - [Intelligence Community](Section%202/Intelligence%20Community.md)
+- Policy & Law/Law/Executive Order/12630
+  - [Executive Office of The President of the United States](Section%201/Executive%20Office%20of%20The%20President%20of%20the%20United%20States.md)
+- Policy & Law/Law/Executive Order/12866
+  - [Executive Office of The President of the United States](Section%201/Executive%20Office%20of%20The%20President%20of%20the%20United%20States.md)
+- Policy & Law/Law/Executive Order/13132
+  - [Executive Office of The President of the United States](Section%201/Executive%20Office%20of%20The%20President%20of%20the%20United%20States.md)
+- Policy & Law/Law/Executive Order/13771
+  - [Executive Office of The President of the United States](Section%201/Executive%20Office%20of%20The%20President%20of%20the%20United%20States.md)
+- Policy & Law/Law/Executive Order/13777
+  - [Executive Office of The President of the United States](Section%201/Executive%20Office%20of%20The%20President%20of%20the%20United%20States.md)
+- Policy & Law/Law/Executive Order/13803
+  - [Executive Office of The President of the United States](Section%201/Executive%20Office%20of%20The%20President%20of%20the%20United%20States.md)
+- Policy & Law/Law/Executive Order/13807
+  - [Executive Office of The President of the United States](Section%201/Executive%20Office%20of%20The%20President%20of%20the%20United%20States.md)
+- Policy & Law/Law/Executive Order/13891
+  - [Executive Office of The President of the United States](Section%201/Executive%20Office%20of%20The%20President%20of%20the%20United%20States.md)
+- Policy & Law/Law/Executive Order/13892
+  - [Executive Office of The President of the United States](Section%201/Executive%20Office%20of%20The%20President%20of%20the%20United%20States.md)
+- Policy & Law/Law/Executive Order/13893
+  - [Executive Office of The President of the United States](Section%201/Executive%20Office%20of%20The%20President%20of%20the%20United%20States.md)
+- Policy & Law/Law/Executive Order/13924
+  - [Executive Office of The President of the United States](Section%201/Executive%20Office%20of%20The%20President%20of%20the%20United%20States.md)
+- Policy & Law/Law/Executive Order/13926
+  - [Agency for International Development](Section%202/Agency%20for%20International%20Development.md)
+- Policy & Law/Law/Executive Order/13957
+  - [Central Personnel Agencies - Managing the Bureaucracy](Section%201/Central%20Personnel%20Agencies%20-%20Managing%20the%20Bureaucracy.md)
+- Policy & Law/Law/Executive Order/13979
+  - [Executive Office of The President of the United States](Section%201/Executive%20Office%20of%20The%20President%20of%20the%20United%20States.md)
+- Policy & Law/Law/Executive Order/13980
+  - [Executive Office of The President of the United States](Section%201/Executive%20Office%20of%20The%20President%20of%20the%20United%20States.md)
+- Policy & Law/Law/Executive Order/13990
+  - [Department of the Interior](Section%203/Department%20of%20the%20Interior.md)
+- Policy & Law/Law/Executive Order/14008
+  - [Department of the Interior](Section%203/Department%20of%20the%20Interior.md)
+- Policy & Law/Law/Executive Order/14020
+  - [Executive Office of The President of the United States](Section%201/Executive%20Office%20of%20The%20President%20of%20the%20United%20States.md)
+- Policy & Law/Law/Executive Order/30x30 Executive Order
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Policy & Law/Law/Executive Order/EO 11246
+  - [Department of Labor and Related Agencies](Section%203/Department%20of%20Labor%20and%20Related%20Agencies.md)
+- Policy & Law/Law/Executive Order/Information and Communications Technology and Services Executive Order
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Policy & Law/Law/Executive Order/International Emergency Economic Powers Act
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Policy & Law/Law/Executive Order/Protecting Life in Global Health Assistance
+  - [Agency for International Development](Section%202/Agency%20for%20International%20Development.md)
+- Policy & Law/Law/Export Administration Regulations
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Policy & Law/Law/Export Control Reform Act of 2018
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Policy & Law/Law/FACE Act
+  - [Department of Justice](Section%203/Department%20of%20Justice.md)
+- Policy & Law/Law/Fair Labor Standards Act
+  - [Department of Labor and Related Agencies](Section%203/Department%20of%20Labor%20and%20Related%20Agencies.md)
+- Policy & Law/Law/Fair and Open Competition Act
+  - [Small Business Administration](Section%204/Small%20Business%20Administration.md)
+- Policy & Law/Law/Faircloth Amendment
+  - [Department of Housing and Urban Development](Section%203/Department%20of%20Housing%20and%20Urban%20Development.md)
+- Policy & Law/Law/Family Educational Rights and Privacy Act
+  - [Department of Education](Section%203/Department%20of%20Education.md)
+- Policy & Law/Law/Federal Advisory Committee Act
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Policy & Law/Law/Federal Election Campaign Act
+  - [Federal Election Commission](Section%205/Federal%20Election%20Commission.md)
+  - [Independent Regulatory Agencies](Section%205/Independent%20Regulatory%20Agencies.md)
+- Policy & Law/Law/Federal Food, Drug, and Cosmetic Act
+  - [Environmental Protection Agency](Section%203/Environmental%20Protection%20Agency.md)
+- Policy & Law/Law/Federal Insecticide, Fungicide, and Rodenticide Act
+  - [Environmental Protection Agency](Section%203/Environmental%20Protection%20Agency.md)
+- Policy & Law/Law/Federal Land Policy and Management Act
+  - [Department of the Interior](Section%203/Department%20of%20the%20Interior.md)
+- Policy & Law/Law/Federal Meat and Poultry Products Inspection Acts
+  - [Department of Agriculture](Section%203/Department%20of%20Agriculture.md)
+- Policy & Law/Law/Federal Power Act
+  - [Department of Energy and Related Commissions](Section%203/Department%20of%20Energy%20and%20Related%20Commissions.md)
+- Policy & Law/Law/Federal Trade Commission Act
+  - [Federal Trade Commission](Section%205/Federal%20Trade%20Commission.md)
+- Policy & Law/Law/Federal Unemployment Tax Act
+  - [Department of Labor and Related Agencies](Section%203/Department%20of%20Labor%20and%20Related%20Agencies.md)
+- Policy & Law/Law/Federal Vacancies Reform Act of 1998
+  - [White House Office](Section%201/White%20House%20Office.md)
+- Policy & Law/Law/Federal Water Pollution Control Act of 1972
+  - [Environmental Protection Agency](Section%203/Environmental%20Protection%20Agency.md)
+- Policy & Law/Law/First Amendment
+  - [Federal Election Commission](Section%205/Federal%20Election%20Commission.md)
+  - [Independent Regulatory Agencies](Section%205/Independent%20Regulatory%20Agencies.md)
+- Policy & Law/Law/Flores Settlement Agreement
+  - [Department of Homeland Security](Section%202/Department%20of%20Homeland%20Security.md)
+- Policy & Law/Law/Flores settlement agreement
+  - [Department of Health and Human Services](Section%203/Department%20of%20Health%20and%20Human%20Services.md)
+- Policy & Law/Law/For the People Act of 2021
+  - [Federal Election Commission](Section%205/Federal%20Election%20Commission.md)
+  - [Independent Regulatory Agencies](Section%205/Independent%20Regulatory%20Agencies.md)
+- Policy & Law/Law/Foreign Agents Registration Act
+  - [Intelligence Community](Section%202/Intelligence%20Community.md)
+- Policy & Law/Law/Foreign Assistance Act of 1961
+  - [Agency for International Development](Section%202/Agency%20for%20International%20Development.md)
+- Policy & Law/Law/Foreign Intelligence Surveillance Act
+  - [Intelligence Community](Section%202/Intelligence%20Community.md)
+  - [Department of Justice](Section%203/Department%20of%20Justice.md)
+- Policy & Law/Law/Foreign Risk and Review Modernization Act
+  - [Department of the Treasury](Section%204/Department%20of%20the%20Treasury.md)
+- Policy & Law/Law/Formula Act
+  - [Trade](Section%204/Trade.md)
+- Policy & Law/Law/GOOD Act
+  - [Executive Office of The President of the United States](Section%201/Executive%20Office%20of%20The%20President%20of%20the%20United%20States.md)
+- Policy & Law/Law/General Mining Law of 1872
+  - [Department of the Interior](Section%203/Department%20of%20the%20Interior.md)
+- Policy & Law/Law/Global Change Research Act of 1990
+  - [Executive Office of The President of the United States](Section%201/Executive%20Office%20of%20The%20President%20of%20the%20United%20States.md)
+- Policy & Law/Law/Goldwater–Nichols Department of Defense Reorganization Act of 1986
+  - [Department of Defense](Section%202/Department%20of%20Defense.md)
+- Policy & Law/Law/Government Performance and Results Act of 1993
+  - [Central Personnel Agencies - Managing the Bureaucracy](Section%201/Central%20Personnel%20Agencies%20-%20Managing%20the%20Bureaucracy.md)
+- Policy & Law/Law/Hatch Act
+  - [Central Personnel Agencies - Managing the Bureaucracy](Section%201/Central%20Personnel%20Agencies%20-%20Managing%20the%20Bureaucracy.md)
+  - [White House Office](Section%201/White%20House%20Office.md)
+- Policy & Law/Law/Health, Economic Assistance, Liability Protection, and Schools Act
+  - [Small Business Administration](Section%204/Small%20Business%20Administration.md)
+- Policy & Law/Law/Higher Education Act of 1965
+  - [Department of Education](Section%203/Department%20of%20Education.md)
+- Policy & Law/Law/Homeland Security Act of 2002
+  - [Department of Homeland Security](Section%202/Department%20of%20Homeland%20Security.md)
+  - [Department of Justice](Section%203/Department%20of%20Justice.md)
+- Policy & Law/Law/Housing and Community Development Act of 1974
+  - [Department of Housing and Urban Development](Section%203/Department%20of%20Housing%20and%20Urban%20Development.md)
+- Policy & Law/Law/Housing and Economic Recovery Act of 2008
+  - [Department of Housing and Urban Development](Section%203/Department%20of%20Housing%20and%20Urban%20Development.md)
+- Policy & Law/Law/Housing and Urban Development Act of 1965
+  - [Department of Housing and Urban Development](Section%203/Department%20of%20Housing%20and%20Urban%20Development.md)
+- Policy & Law/Law/Humane Methods of Slaughter Act of 1978
+  - [Department of Agriculture](Section%203/Department%20of%20Agriculture.md)
+- Policy & Law/Law/Hyde Amendment
+  - [The Common Defense](Section%202/The%20Common%20Defense.md)
+  - [Department of Health and Human Services](Section%203/Department%20of%20Health%20and%20Human%20Services.md)
+  - [The General Welfare](Section%203/The%20General%20Welfare.md)
+- Policy & Law/Law/IMPROVE the SBA Act
+  - [Small Business Administration](Section%204/Small%20Business%20Administration.md)
+- Policy & Law/Law/Immigration and Nationality Act
+  - [Department of Homeland Security](Section%202/Department%20of%20Homeland%20Security.md)
+- Policy & Law/Law/Individuals with Disabilities Education Act
+  - [Department of Education](Section%203/Department%20of%20Education.md)
+- Policy & Law/Law/Inflation Reduction Act
+  - [Department of Agriculture](Section%203/Department%20of%20Agriculture.md)
+  - [Department of Energy and Related Commissions](Section%203/Department%20of%20Energy%20and%20Related%20Commissions.md)
+  - [Department of the Interior](Section%203/Department%20of%20the%20Interior.md)
+  - [Environmental Protection Agency](Section%203/Environmental%20Protection%20Agency.md)
+  - [Department of the Treasury](Section%204/Department%20of%20the%20Treasury.md)
+- Policy & Law/Law/Information Quality Act
+  - [Executive Office of The President of the United States](Section%201/Executive%20Office%20of%20The%20President%20of%20the%20United%20States.md)
+- Policy & Law/Law/Infrastructure Investment and Jobs Act
+  - [Department of Energy and Related Commissions](Section%203/Department%20of%20Energy%20and%20Related%20Commissions.md)
+  - [Department of Transportation](Section%203/Department%20of%20Transportation.md)
+  - [Federal Communications Commission](Section%205/Federal%20Communications%20Commission.md)
+- Policy & Law/Law/Inspector General Act of 1978
+  - [Department of Housing and Urban Development](Section%203/Department%20of%20Housing%20and%20Urban%20Development.md)
+- Policy & Law/Law/Intelligence Reform and Terrorism Prevention Act of 2004
+  - [Intelligence Community](Section%202/Intelligence%20Community.md)
+- Policy & Law/Law/Internal Revenue Code
+  - [Department of the Treasury](Section%204/Department%20of%20the%20Treasury.md)
+- Policy & Law/Law/JOBS Act 4.0
+  - [Small Business Administration](Section%204/Small%20Business%20Administration.md)
+- Policy & Law/Law/Jones Act
+  - [Department of Transportation](Section%203/Department%20of%20Transportation.md)
+- Policy & Law/Law/Judicial Redress Act of 2015
+  - [Department of Homeland Security](Section%202/Department%20of%20Homeland%20Security.md)
+- Policy & Law/Law/Judiciary Act of 1789
+  - [Department of Justice](Section%203/Department%20of%20Justice.md)
+- Policy & Law/Law/Land and Water Conservation Fund
+  - [Department of the Interior](Section%203/Department%20of%20the%20Interior.md)
+- Policy & Law/Law/Magnuson–Stevens Act
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Policy & Law/Law/Marine Mammal Protection Act
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Policy & Law/Law/Merchant Marine Act of 1920
+  - [Trade](Section%204/Trade.md)
+- Policy & Law/Law/Midnight Rules Relief Act
+  - [Executive Office of The President of the United States](Section%201/Executive%20Office%20of%20The%20President%20of%20the%20United%20States.md)
+- Policy & Law/Law/Migratory Bird Treaty Act
+  - [Department of the Interior](Section%203/Department%20of%20the%20Interior.md)
+- Policy & Law/Law/Miscellaneous Tariff Bill
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Policy & Law/Law/National Defense Authorization Act
+  - [Department of Education](Section%203/Department%20of%20Education.md)
+- Policy & Law/Law/National Defense Authorization Act for Fiscal Year 2017
+  - [Department of Defense](Section%202/Department%20of%20Defense.md)
+- Policy & Law/Law/National Environmental Policy Act
+  - [Executive Office of The President of the United States](Section%201/Executive%20Office%20of%20The%20President%20of%20the%20United%20States.md)
+  - [Department of Agriculture](Section%203/Department%20of%20Agriculture.md)
+  - [Department of the Interior](Section%203/Department%20of%20the%20Interior.md)
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Policy & Law/Law/National Flood Insurance Program
+  - [Department of Homeland Security](Section%202/Department%20of%20Homeland%20Security.md)
+- Policy & Law/Law/National Labor Relations Act
+  - [Department of Labor and Related Agencies](Section%203/Department%20of%20Labor%20and%20Related%20Agencies.md)
+- Policy & Law/Law/National Marine Sanctuaries Act
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Policy & Law/Law/National Science and Technology Policy, Organization, and Priorities Act of 1976
+  - [Executive Office of The President of the United States](Section%201/Executive%20Office%20of%20The%20President%20of%20the%20United%20States.md)
+- Policy & Law/Law/National Security Act of 1947
+  - [Intelligence Community](Section%202/Intelligence%20Community.md)
+- Policy & Law/Law/National Security Presidential Memorandum 13
+  - [Department of Defense](Section%202/Department%20of%20Defense.md)
+- Policy & Law/Law/Native American Housing Assistance and Self-Determination Act
+  - [Department of Housing and Urban Development](Section%203/Department%20of%20Housing%20and%20Urban%20Development.md)
+- Policy & Law/Law/Natural Gas Act
+  - [Department of Energy and Related Commissions](Section%203/Department%20of%20Energy%20and%20Related%20Commissions.md)
+- Policy & Law/Law/North American Free Trade Agreement
+  - [Trade](Section%204/Trade.md)
+- Policy & Law/Law/Nuclear Energy Innovation and Modernization Act
+  - [Department of Energy and Related Commissions](Section%203/Department%20of%20Energy%20and%20Related%20Commissions.md)
+- Policy & Law/Law/Nuclear Waste Policy Act
+  - [Department of Energy and Related Commissions](Section%203/Department%20of%20Energy%20and%20Related%20Commissions.md)
+- Policy & Law/Law/Occupational Safety and Health Act
+  - [Department of Labor and Related Agencies](Section%203/Department%20of%20Labor%20and%20Related%20Agencies.md)
+- Policy & Law/Law/Oregon and California Lands Act of 1937
+  - [Department of the Interior](Section%203/Department%20of%20the%20Interior.md)
+- Policy & Law/Law/Outer Continental Shelf Lands Act
+  - [Department of the Interior](Section%203/Department%20of%20the%20Interior.md)
+- Policy & Law/Law/PREP Act
+  - [Department of Health and Human Services](Section%203/Department%20of%20Health%20and%20Human%20Services.md)
+- Policy & Law/Law/Paperwork Reduction Act
+  - [Executive Office of The President of the United States](Section%201/Executive%20Office%20of%20The%20President%20of%20the%20United%20States.md)
+- Policy & Law/Law/Paris Climate Agreement
+  - [Agency for International Development](Section%202/Agency%20for%20International%20Development.md)
+- Policy & Law/Law/Patent Act
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Policy & Law/Law/Pendleton Act of 1883
+  - [Central Personnel Agencies - Managing the Bureaucracy](Section%201/Central%20Personnel%20Agencies%20-%20Managing%20the%20Bureaucracy.md)
+- Policy & Law/Law/Pregnancy Discrimination Act
+  - [Department of Health and Human Services](Section%203/Department%20of%20Health%20and%20Human%20Services.md)
+  - [Department of Labor and Related Agencies](Section%203/Department%20of%20Labor%20and%20Related%20Agencies.md)
+- Policy & Law/Law/Pregnant Workers Fairness Act
+  - [Department of Health and Human Services](Section%203/Department%20of%20Health%20and%20Human%20Services.md)
+  - [Department of Labor and Related Agencies](Section%203/Department%20of%20Labor%20and%20Related%20Agencies.md)
+- Policy & Law/Law/Presidential Transition Act
+  - [Central Personnel Agencies - Managing the Bureaucracy](Section%201/Central%20Personnel%20Agencies%20-%20Managing%20the%20Bureaucracy.md)
+- Policy & Law/Law/Privacy Act
+  - [Executive Office of The President of the United States](Section%201/Executive%20Office%20of%20The%20President%20of%20the%20United%20States.md)
+  - [Department of Homeland Security](Section%202/Department%20of%20Homeland%20Security.md)
+- Policy & Law/Law/Property Clause
+  - [Department of the Interior](Section%203/Department%20of%20the%20Interior.md)
+- Policy & Law/Law/Protecting Life in Foreign Assistance Act
+  - [Agency for International Development](Section%202/Agency%20for%20International%20Development.md)
+- Policy & Law/Law/Protection of Pupils Rights Amendment
+  - [Department of Education](Section%203/Department%20of%20Education.md)
+- Policy & Law/Law/RAISE Act
+  - [Department of Veterans Affairs](Section%203/Department%20of%20Veterans%20Affairs.md)
+- Policy & Law/Law/REINS Act
+  - [Executive Office of The President of the United States](Section%201/Executive%20Office%20of%20The%20President%20of%20the%20United%20States.md)
+- Policy & Law/Law/Racketeer Influenced and Corrupt Organizations Act
+  - [Department of Justice](Section%203/Department%20of%20Justice.md)
+- Policy & Law/Law/Regulatory Accountability Act
+  - [Executive Office of The President of the United States](Section%201/Executive%20Office%20of%20The%20President%20of%20the%20United%20States.md)
+- Policy & Law/Law/Regulatory Flexibility Act
+  - [Department of Labor and Related Agencies](Section%203/Department%20of%20Labor%20and%20Related%20Agencies.md)
+  - [Small Business Administration](Section%204/Small%20Business%20Administration.md)
+- Policy & Law/Law/Rehabilitation Act
+  - [Department of Health and Human Services](Section%203/Department%20of%20Health%20and%20Human%20Services.md)
+  - [Department of Labor and Related Agencies](Section%203/Department%20of%20Labor%20and%20Related%20Agencies.md)
+- Policy & Law/Law/Rehabilitation Act of 1973
+  - [Department of Education](Section%203/Department%20of%20Education.md)
+  - [Department of Housing and Urban Development](Section%203/Department%20of%20Housing%20and%20Urban%20Development.md)
+- Policy & Law/Law/Religious Freedom Restoration Act
+  - [Department of Health and Human Services](Section%203/Department%20of%20Health%20and%20Human%20Services.md)
+- Policy & Law/Law/Religious Freedom Restoration Act of 1993
+  - [Department of Labor and Related Agencies](Section%203/Department%20of%20Labor%20and%20Related%20Agencies.md)
+- Policy & Law/Law/Residential Lead-Based Paint Hazard Reduction Act of 1992
+  - [Department of Housing and Urban Development](Section%203/Department%20of%20Housing%20and%20Urban%20Development.md)
+- Policy & Law/Law/Resource Conservation and Recovery Act
+  - [Environmental Protection Agency](Section%203/Environmental%20Protection%20Agency.md)
+- Policy & Law/Law/Respect for Marriage Act
+  - [Department of Health and Human Services](Section%203/Department%20of%20Health%20and%20Human%20Services.md)
+- Policy & Law/Law/Robinson-Patman Act
+  - [Federal Trade Commission](Section%205/Federal%20Trade%20Commission.md)
+- Policy & Law/Law/SBIR and STTR Extension Act of 2022
+  - [Small Business Administration](Section%204/Small%20Business%20Administration.md)
+- Policy & Law/Law/SMART Act
+  - [Executive Office of The President of the United States](Section%201/Executive%20Office%20of%20The%20President%20of%20the%20United%20States.md)
+- Policy & Law/Law/Safe Drinking Water Act
+  - [Environmental Protection Agency](Section%203/Environmental%20Protection%20Agency.md)
+- Policy & Law/Law/Section 230
+  - [Federal Communications Commission](Section%205/Federal%20Communications%20Commission.md)
+  - [Independent Regulatory Agencies](Section%205/Independent%20Regulatory%20Agencies.md)
+- Policy & Law/Law/Securities Act of 1933
+  - [Financial Regulatory Agencies](Section%205/Financial%20Regulatory%20Agencies.md)
+- Policy & Law/Law/Securities Exchange Act of 1934
+  - [Financial Regulatory Agencies](Section%205/Financial%20Regulatory%20Agencies.md)
+- Policy & Law/Law/Sergeant First Class Heath Robinson Honoring Our Promise to Address Comprehensive Toxics Act of 2022
+  - [Department of Veterans Affairs](Section%203/Department%20of%20Veterans%20Affairs.md)
+- Policy & Law/Law/Sherman Antitrust Act of 1890
+  - [Federal Trade Commission](Section%205/Federal%20Trade%20Commission.md)
+- Policy & Law/Law/Small Business Act
+  - [Small Business Administration](Section%204/Small%20Business%20Administration.md)
+- Policy & Law/Law/Small Business Amendments of 1974
+  - [Small Business Administration](Section%204/Small%20Business%20Administration.md)
+- Policy & Law/Law/Small Business Regulatory Enforcement Fairness Act
+  - [Small Business Administration](Section%204/Small%20Business%20Administration.md)
+- Policy & Law/Law/Small Business Regulatory Flexibility Improvements Act
+  - [Small Business Administration](Section%204/Small%20Business%20Administration.md)
+- Policy & Law/Law/Smith–Mundt Act
+  - [Media Agencies](Section%202/Media%20Agencies.md)
+- Policy & Law/Law/Smooth–Hawley tariffs
+  - [Trade](Section%204/Trade.md)
+- Policy & Law/Law/Social Security Act
+  - [Department of Labor and Related Agencies](Section%203/Department%20of%20Labor%20and%20Related%20Agencies.md)
+- Policy & Law/Law/Stafford Act
+  - [Department of Homeland Security](Section%202/Department%20of%20Homeland%20Security.md)
+- Policy & Law/Law/Surface Mining Control and Reclamation Act of 1977
+  - [Department of the Interior](Section%203/Department%20of%20the%20Interior.md)
+- Policy & Law/Law/Tax Cuts and Jobs Act of 2017
+  - [Department of the Interior](Section%203/Department%20of%20the%20Interior.md)
+- Policy & Law/Law/Teamwork for Employees and Managers Act of 2022
+  - [Department of Labor and Related Agencies](Section%203/Department%20of%20Labor%20and%20Related%20Agencies.md)
+- Policy & Law/Law/Telecommunications Act of 199
+  - [Federal Communications Commission](Section%205/Federal%20Communications%20Commission.md)
+- Policy & Law/Law/Title IX
+  - [Department of Education](Section%203/Department%20of%20Education.md)
+  - [Department of Health and Human Services](Section%203/Department%20of%20Health%20and%20Human%20Services.md)
+- Policy & Law/Law/Title VI
+  - [Department of Education](Section%203/Department%20of%20Education.md)
+  - [Department of Health and Human Services](Section%203/Department%20of%20Health%20and%20Human%20Services.md)
+- Policy & Law/Law/Title VII
+  - [Department of Labor and Related Agencies](Section%203/Department%20of%20Labor%20and%20Related%20Agencies.md)
+- Policy & Law/Law/Title X
+  - [Department of Health and Human Services](Section%203/Department%20of%20Health%20and%20Human%20Services.md)
+- Policy & Law/Law/Toxic Substances Control Act
+  - [Environmental Protection Agency](Section%203/Environmental%20Protection%20Agency.md)
+- Policy & Law/Law/Trade Act of 1974
+  - [Trade](Section%204/Trade.md)
+- Policy & Law/Law/Trade Expansion Act of 1962
+  - [Trade](Section%204/Trade.md)
+- Policy & Law/Law/Trade Facilitation and Trade Enforcement Act
+  - [Small Business Administration](Section%204/Small%20Business%20Administration.md)
+- Policy & Law/Law/Trade Promotion Authority
+  - [Trade](Section%204/Trade.md)
+- Policy & Law/Law/Trade-Related Aspects of Intellectual Property Rights
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+- Policy & Law/Law/Trafficking Victims Protection Reauthorization Act
+  - [Department of Health and Human Services](Section%203/Department%20of%20Health%20and%20Human%20Services.md)
+- Policy & Law/Law/Trans-Pacific Partnership
+  - [Trade](Section%204/Trade.md)
+- Policy & Law/Law/Transportation Infrastructure Finance and Innovation Act
+  - [Department of Transportation](Section%203/Department%20of%20Transportation.md)
+- Policy & Law/Law/Unfunded Mandates Accountability and Transparency Act
+  - [Executive Office of The President of the United States](Section%201/Executive%20Office%20of%20The%20President%20of%20the%20United%20States.md)
+- Policy & Law/Law/Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970
+  - [Department of Housing and Urban Development](Section%203/Department%20of%20Housing%20and%20Urban%20Development.md)
+- Policy & Law/Law/Uniformed Services Employment and Reemployment Rights Act
+  - [Central Personnel Agencies - Managing the Bureaucracy](Section%201/Central%20Personnel%20Agencies%20-%20Managing%20the%20Bureaucracy.md)
+- Policy & Law/Law/United States Reciprocal Trade Act
+  - [Trade](Section%204/Trade.md)
+- Policy & Law/Law/United States–Mexico–Canada Agreement
+  - [Trade](Section%204/Trade.md)
+- Policy & Law/Law/Urban Mass Transportation Act of 1964
+  - [Department of Transportation](Section%203/Department%20of%20Transportation.md)
+- Policy & Law/Law/Uyghur Forced Labor Prevention Act
+  - [Department of Energy and Related Commissions](Section%203/Department%20of%20Energy%20and%20Related%20Commissions.md)
+- Policy & Law/Law/VA MISSION Act
+  - [Department of Health and Human Services](Section%203/Department%20of%20Health%20and%20Human%20Services.md)
+- Policy & Law/Law/VA MISSION Act of 2018
+  - [Department of Veterans Affairs](Section%203/Department%20of%20Veterans%20Affairs.md)
+- Policy & Law/Law/Vietnam Era Veterans' Readjustment Assistance Act
+  - [Department of Labor and Related Agencies](Section%203/Department%20of%20Labor%20and%20Related%20Agencies.md)
+- Policy & Law/Law/Weldon Amendment
+  - [Department of Health and Human Services](Section%203/Department%20of%20Health%20and%20Human%20Services.md)
+- Policy & Law/Law/William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008
+  - [Department of Homeland Security](Section%202/Department%20of%20Homeland%20Security.md)
+- Policy & Law/Law/Worker's Choice Act
+  - [Department of Labor and Related Agencies](Section%203/Department%20of%20Labor%20and%20Related%20Agencies.md)
+- Policy & Law/Law/Workforce Innovation and Opportunity Act
+  - [Department of Labor and Related Agencies](Section%203/Department%20of%20Labor%20and%20Related%20Agencies.md)
+- Product & Technology/Product/Kuiper
+  - [Federal Communications Commission](Section%205/Federal%20Communications%20Commission.md)
+- Product & Technology/Product/StarLink
+  - [Federal Communications Commission](Section%205/Federal%20Communications%20Commission.md)
+- Product & Technology/Product/TikTok
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+  - [Trade](Section%204/Trade.md)
+  - [Federal Communications Commission](Section%205/Federal%20Communications%20Commission.md)
+  - [Independent Regulatory Agencies](Section%205/Independent%20Regulatory%20Agencies.md)
+- Product & Technology/Product/WeChat
+  - [Department of Commerce](Section%204/Department%20of%20Commerce.md)
+  - [Trade](Section%204/Trade.md)
+- Product & Technology/Technology/5G
+  - [Federal Communications Commission](Section%205/Federal%20Communications%20Commission.md)
+- Product & Technology/Technology/Artificial Intelligence
+  - [Federal Communications Commission](Section%205/Federal%20Communications%20Commission.md)
+  - [Independent Regulatory Agencies](Section%205/Independent%20Regulatory%20Agencies.md)
+- Topical Concept/Administrative Concept/Managerial Accountability
+  - [Independent Regulatory Agencies](Section%205/Independent%20Regulatory%20Agencies.md)
+- Topical Concept/Economic Concept/Accredited Investor
+  - [Financial Regulatory Agencies](Section%205/Financial%20Regulatory%20Agencies.md)
+- Topical Concept/Economic Concept/Antitrust Law
+  - [Independent Regulatory Agencies](Section%205/Independent%20Regulatory%20Agencies.md)
+- Topical Concept/Economic Concept/Capital Formation
+  - [Financial Regulatory Agencies](Section%205/Financial%20Regulatory%20Agencies.md)
+- Topical Concept/Economic Concept/Consumer Welfare
+  - [Federal Trade Commission](Section%205/Federal%20Trade%20Commission.md)
+- Topical Concept/Economic Concept/Corporate Social Responsibility
+  - [Financial Regulatory Agencies](Section%205/Financial%20Regulatory%20Agencies.md)
+- Topical Concept/Economic Concept/Digital Assets
+  - [Financial Regulatory Agencies](Section%205/Financial%20Regulatory%20Agencies.md)
+- Topical Concept/Economic Concept/Emerging Growth Company
+  - [Financial Regulatory Agencies](Section%205/Financial%20Regulatory%20Agencies.md)
+- Topical Concept/Economic Concept/Hospital Mergers
+  - [Independent Regulatory Agencies](Section%205/Independent%20Regulatory%20Agencies.md)
+- Topical Concept/Economic Concept/Net Neutrality
+  - [Federal Communications Commission](Section%205/Federal%20Communications%20Commission.md)
+- Topical Concept/Economic Concept/Nominal GDP Targeting
+  - [Federal Reserve](Section%204/Federal%20Reserve.md)
+- Topical Concept/Economic Concept/Shareholder Control
+  - [Independent Regulatory Agencies](Section%205/Independent%20Regulatory%20Agencies.md)
+- Topical Concept/Economic Concept/Socially Responsible Investing
+  - [Financial Regulatory Agencies](Section%205/Financial%20Regulatory%20Agencies.md)
+- Topical Concept/Economic Concept/Supermarket Mergers
+  - [Independent Regulatory Agencies](Section%205/Independent%20Regulatory%20Agencies.md)
+- Topical Concept/Economic Concept/Taylor Rule
+  - [Federal Reserve](Section%204/Federal%20Reserve.md)
+- Topical Concept/Environmental Concept/30 by 30 Plan
+  - [Department of the Interior](Section%203/Department%20of%20the%20Interior.md)
+- Topical Concept/Environmental Concept/Climate Change
+  - [Environmental Protection Agency](Section%203/Environmental%20Protection%20Agency.md)
+- Topical Concept/Environmental Concept/National Monuments
+  - [Department of the Interior](Section%203/Department%20of%20the%20Interior.md)
+- Topical Concept/Environmental Concept/Waters of the U.S.
+  - [Environmental Protection Agency](Section%203/Environmental%20Protection%20Agency.md)
+- Topical Concept/Environmental Concept/Wild Horses and Burros
+  - [Department of the Interior](Section%203/Department%20of%20the%20Interior.md)
+- Topical Concept/Historical Event/Cold War
+  - [A Promise to America](Foreword/A%20Promise%20to%20America.md)
+  - [Agency for International Development](Section%202/Agency%20for%20International%20Development.md)
+  - [Department of State](Section%202/Department%20of%20State.md)
+  - [Department of Energy and Related Commissions](Section%203/Department%20of%20Energy%20and%20Related%20Commissions.md)
+  - [Trade](Section%204/Trade.md)
+- Topical Concept/Historical Event/Manhattan Project
+  - [Department of Energy and Related Commissions](Section%203/Department%20of%20Energy%20and%20Related%20Commissions.md)
+- Topical Concept/Historical Event/World War II
+  - [Trade](Section%204/Trade.md)
+- Topical Concept/Political Concept/Climate Change
+  - [Department of Agriculture](Section%203/Department%20of%20Agriculture.md)
+- Topical Concept/Political Concept/Collusive Behavior with Government
+  - [Independent Regulatory Agencies](Section%205/Independent%20Regulatory%20Agencies.md)
+- Topical Concept/Political Concept/Cooperative Federalism
+  - [Environmental Protection Agency](Section%203/Environmental%20Protection%20Agency.md)
+- Topical Concept/Political Concept/Energy Dominance
+  - [Department of the Interior](Section%203/Department%20of%20the%20Interior.md)
+- Topical Concept/Political Concept/Environmental Justice
+  - [Environmental Protection Agency](Section%203/Environmental%20Protection%20Agency.md)
+- Topical Concept/Political Concept/Equity
+  - [Department of Agriculture](Section%203/Department%20of%20Agriculture.md)
+- Topical Concept/Political Concept/Free Speech
+  - [Independent Regulatory Agencies](Section%205/Independent%20Regulatory%20Agencies.md)
+- Topical Concept/Political Concept/Marketplace of Ideas
+  - [Independent Regulatory Agencies](Section%205/Independent%20Regulatory%20Agencies.md)
+- Topical Concept/Political Concept/Multiple Use
+  - [Department of the Interior](Section%203/Department%20of%20the%20Interior.md)
+- Topical Concept/Political Concept/Sagebrush Rebel
+  - [Department of the Interior](Section%203/Department%20of%20the%20Interior.md)
+- Topical Concept/Political Concept/Sustained Yield
+  - [Department of the Interior](Section%203/Department%20of%20the%20Interior.md)
+- Topical Concept/Political Concept/War on the West
+  - [Department of the Interior](Section%203/Department%20of%20the%20Interior.md)
+- Topical Concept/Social Concept/Big Tech Industry
+  - [Federal Communications Commission](Section%205/Federal%20Communications%20Commission.md)
+  - [Independent Regulatory Agencies](Section%205/Independent%20Regulatory%20Agencies.md)
+- Topical Concept/Social Concept/Climate Change
+  - [Financial Regulatory Agencies](Section%205/Financial%20Regulatory%20Agencies.md)
+  - [Independent Regulatory Agencies](Section%205/Independent%20Regulatory%20Agencies.md)
+- Topical Concept/Social Concept/DEI
+  - [Federal Trade Commission](Section%205/Federal%20Trade%20Commission.md)
+  - [Financial Regulatory Agencies](Section%205/Financial%20Regulatory%20Agencies.md)
+- Topical Concept/Social Concept/Diversity
+  - [Independent Regulatory Agencies](Section%205/Independent%20Regulatory%20Agencies.md)
+- Topical Concept/Social Concept/ESG
+  - [Federal Trade Commission](Section%205/Federal%20Trade%20Commission.md)
+  - [Financial Regulatory Agencies](Section%205/Financial%20Regulatory%20Agencies.md)
+  - [Independent Regulatory Agencies](Section%205/Independent%20Regulatory%20Agencies.md)
